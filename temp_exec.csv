@@ -1,0 +1,4201 @@
+Distribution,Ordenation,Array Length,Time
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.0
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.015625
+Random,Insertion Sort,150,0.03125
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.03125
+Random,Insertion Sort,200,0.03125
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.078125
+Random,Insertion Sort,250,0.015625
+Random,Shell Sort,250,0.015625
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.0
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.140625
+Random,Insertion Sort,300,0.015625
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.0
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.234375
+Random,Insertion Sort,350,0.0625
+Random,Shell Sort,350,0.0
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.265625
+Random,Insertion Sort,400,0.140625
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.015625
+Random,Counting Sort,400,0.015625
+Random,Selection Sort,450,0.4375
+Random,Insertion Sort,450,0.1875
+Random,Shell Sort,450,0.0
+Random,Quick Sort,450,0.015625
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.0
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.359375
+Random,Insertion Sort,500,0.21875
+Random,Shell Sort,500,0.0
+Random,Quick Sort,500,0.03125
+Random,Quick Sort 2,500,0.015625
+Random,Quick Sort 3,500,0.015625
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.4375
+Random,Insertion Sort,550,0.25
+Random,Shell Sort,550,0.015625
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.03125
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.640625
+Random,Insertion Sort,600,0.21875
+Random,Shell Sort,600,0.03125
+Random,Quick Sort,600,0.03125
+Random,Quick Sort 2,600,0.0
+Random,Quick Sort 3,600,0.0
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.578125
+Random,Insertion Sort,650,0.34375
+Random,Shell Sort,650,0.015625
+Random,Quick Sort,650,0.015625
+Random,Quick Sort 2,650,0.0
+Random,Quick Sort 3,650,0.0
+Random,Counting Sort,650,0.015625
+Random,Selection Sort,700,0.75
+Random,Insertion Sort,700,0.28125
+Random,Shell Sort,700,0.046875
+Random,Quick Sort,700,0.03125
+Random,Quick Sort 2,700,0.078125
+Random,Quick Sort 3,700,0.015625
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,0.921875
+Random,Insertion Sort,750,0.34375
+Random,Shell Sort,750,0.0
+Random,Quick Sort,750,0.078125
+Random,Quick Sort 2,750,0.0625
+Random,Quick Sort 3,750,0.0
+Random,Counting Sort,750,0.0
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.015625
+Random,Insertion Sort,100,0.03125
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.046875
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.015625
+Random,Quick Sort 2,150,0.015625
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.046875
+Random,Insertion Sort,200,0.03125
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.109375
+Random,Insertion Sort,250,0.015625
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.015625
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.09375
+Random,Insertion Sort,300,0.078125
+Random,Shell Sort,300,0.015625
+Random,Quick Sort,300,0.0
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.140625
+Random,Insertion Sort,350,0.046875
+Random,Shell Sort,350,0.0
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.015625
+Random,Counting Sort,350,0.015625
+Random,Selection Sort,400,0.25
+Random,Insertion Sort,400,0.09375
+Random,Shell Sort,400,0.0
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.0
+Random,Counting Sort,400,0.015625
+Random,Selection Sort,450,0.25
+Random,Insertion Sort,450,0.203125
+Random,Shell Sort,450,0.0625
+Random,Quick Sort,450,0.015625
+Random,Quick Sort 2,450,0.046875
+Random,Quick Sort 3,450,0.03125
+Random,Counting Sort,450,0.015625
+Random,Selection Sort,500,1.15625
+Random,Insertion Sort,500,0.46875
+Random,Shell Sort,500,0.03125
+Random,Quick Sort,500,0.0625
+Random,Quick Sort 2,500,0.015625
+Random,Quick Sort 3,500,0.03125
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,1.3125
+Random,Insertion Sort,550,0.578125
+Random,Shell Sort,550,0.09375
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.015625
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,1.65625
+Random,Insertion Sort,600,0.703125
+Random,Shell Sort,600,0.015625
+Random,Quick Sort,600,0.109375
+Random,Quick Sort 2,600,0.0625
+Random,Quick Sort 3,600,0.0
+Random,Counting Sort,600,0.015625
+Random,Selection Sort,650,1.25
+Random,Insertion Sort,650,0.203125
+Random,Shell Sort,650,0.03125
+Random,Quick Sort,650,0.046875
+Random,Quick Sort 2,650,0.046875
+Random,Quick Sort 3,650,0.03125
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.6875
+Random,Insertion Sort,700,0.359375
+Random,Shell Sort,700,0.046875
+Random,Quick Sort,700,0.015625
+Random,Quick Sort 2,700,0.046875
+Random,Quick Sort 3,700,0.0
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,0.890625
+Random,Insertion Sort,750,0.1875
+Random,Shell Sort,750,0.03125
+Random,Quick Sort,750,0.03125
+Random,Quick Sort 2,750,0.0625
+Random,Quick Sort 3,750,0.015625
+Random,Counting Sort,750,0.0
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.015625
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.0
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.0625
+Random,Insertion Sort,200,0.015625
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.015625
+Random,Selection Sort,250,0.125
+Random,Insertion Sort,250,0.046875
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.015625
+Random,Quick Sort 3,250,0.0
+Random,Counting Sort,250,0.015625
+Random,Selection Sort,300,0.15625
+Random,Insertion Sort,300,0.09375
+Random,Shell Sort,300,0.015625
+Random,Quick Sort,300,0.015625
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.015625
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.34375
+Random,Insertion Sort,350,0.09375
+Random,Shell Sort,350,0.015625
+Random,Quick Sort,350,0.015625
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.140625
+Random,Insertion Sort,400,0.078125
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.03125
+Random,Counting Sort,400,0.0
+Random,Selection Sort,450,0.375
+Random,Insertion Sort,450,0.359375
+Random,Shell Sort,450,0.0
+Random,Quick Sort,450,0.03125
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.015625
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,1.3125
+Random,Insertion Sort,500,0.546875
+Random,Shell Sort,500,0.0
+Random,Quick Sort,500,0.0625
+Random,Quick Sort 2,500,0.046875
+Random,Quick Sort 3,500,0.015625
+Random,Counting Sort,500,0.015625
+Random,Selection Sort,550,1.21875
+Random,Insertion Sort,550,0.53125
+Random,Shell Sort,550,0.0625
+Random,Quick Sort,550,0.046875
+Random,Quick Sort 2,550,0.046875
+Random,Quick Sort 3,550,0.078125
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,1.53125
+Random,Insertion Sort,600,0.640625
+Random,Shell Sort,600,0.109375
+Random,Quick Sort,600,0.015625
+Random,Quick Sort 2,600,0.046875
+Random,Quick Sort 3,600,0.03125
+Random,Counting Sort,600,0.015625
+Random,Selection Sort,650,2.03125
+Random,Insertion Sort,650,0.484375
+Random,Shell Sort,650,0.078125
+Random,Quick Sort,650,0.03125
+Random,Quick Sort 2,650,0.03125
+Random,Quick Sort 3,650,0.046875
+Random,Counting Sort,650,0.03125
+Random,Selection Sort,700,2.296875
+Random,Insertion Sort,700,0.875
+Random,Shell Sort,700,0.03125
+Random,Quick Sort,700,0.078125
+Random,Quick Sort 2,700,0.078125
+Random,Quick Sort 3,700,0.046875
+Random,Counting Sort,700,0.015625
+Random,Selection Sort,750,2.03125
+Random,Insertion Sort,750,1.296875
+Random,Shell Sort,750,0.09375
+Random,Quick Sort,750,0.015625
+Random,Quick Sort 2,750,0.0625
+Random,Quick Sort 3,750,0.078125
+Random,Counting Sort,750,0.0
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.015625
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.03125
+Random,Insertion Sort,100,0.03125
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.015625
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.015625
+Random,Insertion Sort,150,0.015625
+Random,Shell Sort,150,0.015625
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.015625
+Random,Selection Sort,200,0.109375
+Random,Insertion Sort,200,0.015625
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.015625
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.0625
+Random,Insertion Sort,250,0.015625
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.015625
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.046875
+Random,Insertion Sort,300,0.0625
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.0
+Random,Quick Sort 2,300,0.015625
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.171875
+Random,Insertion Sort,350,0.0625
+Random,Shell Sort,350,0.0
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.015625
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.171875
+Random,Insertion Sort,400,0.109375
+Random,Shell Sort,400,0.0
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.0
+Random,Counting Sort,400,0.0
+Random,Selection Sort,450,0.34375
+Random,Insertion Sort,450,0.09375
+Random,Shell Sort,450,0.03125
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.0
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.34375
+Random,Insertion Sort,500,0.171875
+Random,Shell Sort,500,0.015625
+Random,Quick Sort,500,0.0
+Random,Quick Sort 2,500,0.0
+Random,Quick Sort 3,500,0.015625
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.375
+Random,Insertion Sort,550,0.25
+Random,Shell Sort,550,0.015625
+Random,Quick Sort,550,0.03125
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.03125
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.5625
+Random,Insertion Sort,600,0.265625
+Random,Shell Sort,600,0.0
+Random,Quick Sort,600,0.03125
+Random,Quick Sort 2,600,0.015625
+Random,Quick Sort 3,600,0.03125
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.734375
+Random,Insertion Sort,650,0.125
+Random,Shell Sort,650,0.0
+Random,Quick Sort,650,0.015625
+Random,Quick Sort 2,650,0.0
+Random,Quick Sort 3,650,0.015625
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.6875
+Random,Insertion Sort,700,0.296875
+Random,Shell Sort,700,0.03125
+Random,Quick Sort,700,0.03125
+Random,Quick Sort 2,700,0.015625
+Random,Quick Sort 3,700,0.015625
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,0.953125
+Random,Insertion Sort,750,0.40625
+Random,Shell Sort,750,0.03125
+Random,Quick Sort,750,0.03125
+Random,Quick Sort 2,750,0.015625
+Random,Quick Sort 3,750,0.046875
+Random,Counting Sort,750,0.015625
+Random,Selection Sort,50,0.015625
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.015625
+Random,Insertion Sort,100,0.03125
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.0
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.015625
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.015625
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.109375
+Random,Insertion Sort,200,0.0625
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.015625
+Random,Quick Sort 3,200,0.015625
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.078125
+Random,Insertion Sort,250,0.03125
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.015625
+Random,Quick Sort 3,250,0.0
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.109375
+Random,Insertion Sort,300,0.078125
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.0
+Random,Quick Sort 2,300,0.015625
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.21875
+Random,Insertion Sort,350,0.046875
+Random,Shell Sort,350,0.03125
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.28125
+Random,Insertion Sort,400,0.140625
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.0
+Random,Quick Sort 2,400,0.015625
+Random,Quick Sort 3,400,0.015625
+Random,Counting Sort,400,0.015625
+Random,Selection Sort,450,0.140625
+Random,Insertion Sort,450,0.03125
+Random,Shell Sort,450,0.015625
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.0
+Random,Quick Sort 3,450,0.015625
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.09375
+Random,Insertion Sort,500,0.15625
+Random,Shell Sort,500,0.03125
+Random,Quick Sort,500,0.046875
+Random,Quick Sort 2,500,0.0
+Random,Quick Sort 3,500,0.015625
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.140625
+Random,Insertion Sort,550,0.09375
+Random,Shell Sort,550,0.015625
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.015625
+Random,Quick Sort 3,550,0.0
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.328125
+Random,Insertion Sort,600,0.171875
+Random,Shell Sort,600,0.0
+Random,Quick Sort,600,0.0
+Random,Quick Sort 2,600,0.0
+Random,Quick Sort 3,600,0.015625
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.328125
+Random,Insertion Sort,650,0.09375
+Random,Shell Sort,650,0.03125
+Random,Quick Sort,650,0.03125
+Random,Quick Sort 2,650,0.0
+Random,Quick Sort 3,650,0.0
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.28125
+Random,Insertion Sort,700,0.140625
+Random,Shell Sort,700,0.0
+Random,Quick Sort,700,0.03125
+Random,Quick Sort 2,700,0.015625
+Random,Quick Sort 3,700,0.046875
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,1.09375
+Random,Insertion Sort,750,0.390625
+Random,Shell Sort,750,0.03125
+Random,Quick Sort,750,0.03125
+Random,Quick Sort 2,750,0.015625
+Random,Quick Sort 3,750,0.03125
+Random,Counting Sort,750,0.0
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.0
+Random,Insertion Sort,100,0.015625
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.0
+Random,Shell Sort,150,0.015625
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.015625
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.0
+Random,Insertion Sort,200,0.046875
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.0625
+Random,Insertion Sort,250,0.046875
+Random,Shell Sort,250,0.015625
+Random,Quick Sort,250,0.015625
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.015625
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.125
+Random,Insertion Sort,300,0.046875
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.015625
+Random,Quick Sort 2,300,0.015625
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.25
+Random,Insertion Sort,350,0.09375
+Random,Shell Sort,350,0.015625
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.015625
+Random,Quick Sort 3,350,0.015625
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.328125
+Random,Insertion Sort,400,0.09375
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.0
+Random,Counting Sort,400,0.0
+Random,Selection Sort,450,0.375
+Random,Insertion Sort,450,0.125
+Random,Shell Sort,450,0.0
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.015625
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.484375
+Random,Insertion Sort,500,0.15625
+Random,Shell Sort,500,0.015625
+Random,Quick Sort,500,0.015625
+Random,Quick Sort 2,500,0.046875
+Random,Quick Sort 3,500,0.0
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.5
+Random,Insertion Sort,550,0.265625
+Random,Shell Sort,550,0.0
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.03125
+Random,Counting Sort,550,0.015625
+Random,Selection Sort,600,0.65625
+Random,Insertion Sort,600,0.265625
+Random,Shell Sort,600,0.03125
+Random,Quick Sort,600,0.046875
+Random,Quick Sort 2,600,0.03125
+Random,Quick Sort 3,600,0.0
+Random,Counting Sort,600,0.015625
+Random,Selection Sort,650,0.859375
+Random,Insertion Sort,650,0.25
+Random,Shell Sort,650,0.015625
+Random,Quick Sort,650,0.046875
+Random,Quick Sort 2,650,0.0
+Random,Quick Sort 3,650,0.03125
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.796875
+Random,Insertion Sort,700,0.328125
+Random,Shell Sort,700,0.015625
+Random,Quick Sort,700,0.03125
+Random,Quick Sort 2,700,0.03125
+Random,Quick Sort 3,700,0.0
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,0.875
+Random,Insertion Sort,750,0.59375
+Random,Shell Sort,750,0.015625
+Random,Quick Sort,750,0.0
+Random,Quick Sort 2,750,0.03125
+Random,Quick Sort 3,750,0.0
+Random,Counting Sort,750,0.03125
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.015625
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.015625
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.015625
+Random,Insertion Sort,150,0.015625
+Random,Shell Sort,150,0.015625
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.046875
+Random,Insertion Sort,200,0.015625
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.015625
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.109375
+Random,Insertion Sort,250,0.046875
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.015625
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.015625
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.109375
+Random,Insertion Sort,300,0.015625
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.015625
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.171875
+Random,Insertion Sort,350,0.078125
+Random,Shell Sort,350,0.0
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.03125
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.203125
+Random,Insertion Sort,400,0.0625
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.0
+Random,Counting Sort,400,0.0
+Random,Selection Sort,450,0.40625
+Random,Insertion Sort,450,0.140625
+Random,Shell Sort,450,0.03125
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.03125
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.46875
+Random,Insertion Sort,500,0.125
+Random,Shell Sort,500,0.03125
+Random,Quick Sort,500,0.0
+Random,Quick Sort 2,500,0.0
+Random,Quick Sort 3,500,0.0
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.640625
+Random,Insertion Sort,550,0.09375
+Random,Shell Sort,550,0.015625
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.03125
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.640625
+Random,Insertion Sort,600,0.265625
+Random,Shell Sort,600,0.046875
+Random,Quick Sort,600,0.03125
+Random,Quick Sort 2,600,0.015625
+Random,Quick Sort 3,600,0.0
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.65625
+Random,Insertion Sort,650,0.21875
+Random,Shell Sort,650,0.015625
+Random,Quick Sort,650,0.015625
+Random,Quick Sort 2,650,0.015625
+Random,Quick Sort 3,650,0.015625
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.875
+Random,Insertion Sort,700,0.359375
+Random,Shell Sort,700,0.015625
+Random,Quick Sort,700,0.0
+Random,Quick Sort 2,700,0.015625
+Random,Quick Sort 3,700,0.015625
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,1.0
+Random,Insertion Sort,750,0.546875
+Random,Shell Sort,750,0.0
+Random,Quick Sort,750,0.015625
+Random,Quick Sort 2,750,0.0
+Random,Quick Sort 3,750,0.0
+Random,Counting Sort,750,0.015625
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.0
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.015625
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.015625
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.046875
+Random,Insertion Sort,200,0.0
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.09375
+Random,Insertion Sort,250,0.015625
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.0
+Random,Counting Sort,250,0.015625
+Random,Selection Sort,300,0.109375
+Random,Insertion Sort,300,0.046875
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.0
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.015625
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.25
+Random,Insertion Sort,350,0.0625
+Random,Shell Sort,350,0.015625
+Random,Quick Sort,350,0.015625
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.296875
+Random,Insertion Sort,400,0.078125
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.015625
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.015625
+Random,Counting Sort,400,0.015625
+Random,Selection Sort,450,0.375
+Random,Insertion Sort,450,0.109375
+Random,Shell Sort,450,0.015625
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.0
+Random,Quick Sort 3,450,0.0
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.4375
+Random,Insertion Sort,500,0.09375
+Random,Shell Sort,500,0.0
+Random,Quick Sort,500,0.015625
+Random,Quick Sort 2,500,0.0
+Random,Quick Sort 3,500,0.03125
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.421875
+Random,Insertion Sort,550,0.25
+Random,Shell Sort,550,0.015625
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.015625
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.46875
+Random,Insertion Sort,600,0.125
+Random,Shell Sort,600,0.0
+Random,Quick Sort,600,0.015625
+Random,Quick Sort 2,600,0.0
+Random,Quick Sort 3,600,0.015625
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.859375
+Random,Insertion Sort,650,0.296875
+Random,Shell Sort,650,0.03125
+Random,Quick Sort,650,0.015625
+Random,Quick Sort 2,650,0.015625
+Random,Quick Sort 3,650,0.046875
+Random,Counting Sort,650,0.015625
+Random,Selection Sort,700,0.6875
+Random,Insertion Sort,700,0.328125
+Random,Shell Sort,700,0.03125
+Random,Quick Sort,700,0.03125
+Random,Quick Sort 2,700,0.015625
+Random,Quick Sort 3,700,0.03125
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,1.140625
+Random,Insertion Sort,750,0.359375
+Random,Shell Sort,750,0.03125
+Random,Quick Sort,750,0.015625
+Random,Quick Sort 2,750,0.015625
+Random,Quick Sort 3,750,0.03125
+Random,Counting Sort,750,0.0
+Random,Selection Sort,50,0.015625
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.015625
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.015625
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.0
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.03125
+Random,Insertion Sort,150,0.0
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.0
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.0625
+Random,Insertion Sort,200,0.0
+Random,Shell Sort,200,0.015625
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.0
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.078125
+Random,Insertion Sort,250,0.0
+Random,Shell Sort,250,0.0
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.0
+Random,Quick Sort 3,250,0.015625
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.078125
+Random,Insertion Sort,300,0.03125
+Random,Shell Sort,300,0.0
+Random,Quick Sort,300,0.015625
+Random,Quick Sort 2,300,0.0
+Random,Quick Sort 3,300,0.015625
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.140625
+Random,Insertion Sort,350,0.09375
+Random,Shell Sort,350,0.0
+Random,Quick Sort,350,0.0
+Random,Quick Sort 2,350,0.0
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.0
+Random,Selection Sort,400,0.203125
+Random,Insertion Sort,400,0.15625
+Random,Shell Sort,400,0.015625
+Random,Quick Sort,400,0.0
+Random,Quick Sort 2,400,0.03125
+Random,Quick Sort 3,400,0.015625
+Random,Counting Sort,400,0.015625
+Random,Selection Sort,450,0.359375
+Random,Insertion Sort,450,0.109375
+Random,Shell Sort,450,0.015625
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.015625
+Random,Counting Sort,450,0.015625
+Random,Selection Sort,500,0.5
+Random,Insertion Sort,500,0.25
+Random,Shell Sort,500,0.015625
+Random,Quick Sort,500,0.015625
+Random,Quick Sort 2,500,0.0
+Random,Quick Sort 3,500,0.015625
+Random,Counting Sort,500,0.015625
+Random,Selection Sort,550,0.40625
+Random,Insertion Sort,550,0.328125
+Random,Shell Sort,550,0.03125
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.0
+Random,Quick Sort 3,550,0.015625
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.609375
+Random,Insertion Sort,600,0.3125
+Random,Shell Sort,600,0.015625
+Random,Quick Sort,600,0.03125
+Random,Quick Sort 2,600,0.03125
+Random,Quick Sort 3,600,0.03125
+Random,Counting Sort,600,0.015625
+Random,Selection Sort,650,0.71875
+Random,Insertion Sort,650,0.3125
+Random,Shell Sort,650,0.015625
+Random,Quick Sort,650,0.0
+Random,Quick Sort 2,650,0.03125
+Random,Quick Sort 3,650,0.0
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.78125
+Random,Insertion Sort,700,0.5
+Random,Shell Sort,700,0.03125
+Random,Quick Sort,700,0.015625
+Random,Quick Sort 2,700,0.015625
+Random,Quick Sort 3,700,0.03125
+Random,Counting Sort,700,0.0
+Random,Selection Sort,750,0.828125
+Random,Insertion Sort,750,0.578125
+Random,Shell Sort,750,0.015625
+Random,Quick Sort,750,0.03125
+Random,Quick Sort 2,750,0.046875
+Random,Quick Sort 3,750,0.015625
+Random,Counting Sort,750,0.015625
+Random,Selection Sort,50,0.0
+Random,Insertion Sort,50,0.0
+Random,Shell Sort,50,0.0
+Random,Quick Sort,50,0.0
+Random,Quick Sort 2,50,0.0
+Random,Quick Sort 3,50,0.0
+Random,Counting Sort,50,0.0
+Random,Selection Sort,100,0.0
+Random,Insertion Sort,100,0.0
+Random,Shell Sort,100,0.015625
+Random,Quick Sort,100,0.0
+Random,Quick Sort 2,100,0.0
+Random,Quick Sort 3,100,0.0
+Random,Counting Sort,100,0.0
+Random,Selection Sort,150,0.0625
+Random,Insertion Sort,150,0.0
+Random,Shell Sort,150,0.0
+Random,Quick Sort,150,0.015625
+Random,Quick Sort 2,150,0.0
+Random,Quick Sort 3,150,0.0
+Random,Counting Sort,150,0.0
+Random,Selection Sort,200,0.046875
+Random,Insertion Sort,200,0.046875
+Random,Shell Sort,200,0.0
+Random,Quick Sort,200,0.0
+Random,Quick Sort 2,200,0.015625
+Random,Quick Sort 3,200,0.0
+Random,Counting Sort,200,0.0
+Random,Selection Sort,250,0.0625
+Random,Insertion Sort,250,0.046875
+Random,Shell Sort,250,0.03125
+Random,Quick Sort,250,0.0
+Random,Quick Sort 2,250,0.015625
+Random,Quick Sort 3,250,0.0
+Random,Counting Sort,250,0.0
+Random,Selection Sort,300,0.15625
+Random,Insertion Sort,300,0.09375
+Random,Shell Sort,300,0.015625
+Random,Quick Sort,300,0.03125
+Random,Quick Sort 2,300,0.015625
+Random,Quick Sort 3,300,0.0
+Random,Counting Sort,300,0.0
+Random,Selection Sort,350,0.203125
+Random,Insertion Sort,350,0.09375
+Random,Shell Sort,350,0.03125
+Random,Quick Sort,350,0.015625
+Random,Quick Sort 2,350,0.03125
+Random,Quick Sort 3,350,0.0
+Random,Counting Sort,350,0.015625
+Random,Selection Sort,400,0.234375
+Random,Insertion Sort,400,0.078125
+Random,Shell Sort,400,0.046875
+Random,Quick Sort,400,0.046875
+Random,Quick Sort 2,400,0.0
+Random,Quick Sort 3,400,0.015625
+Random,Counting Sort,400,0.0
+Random,Selection Sort,450,0.375
+Random,Insertion Sort,450,0.1875
+Random,Shell Sort,450,0.0
+Random,Quick Sort,450,0.0
+Random,Quick Sort 2,450,0.015625
+Random,Quick Sort 3,450,0.015625
+Random,Counting Sort,450,0.0
+Random,Selection Sort,500,0.390625
+Random,Insertion Sort,500,0.484375
+Random,Shell Sort,500,0.03125
+Random,Quick Sort,500,0.015625
+Random,Quick Sort 2,500,0.015625
+Random,Quick Sort 3,500,0.0
+Random,Counting Sort,500,0.0
+Random,Selection Sort,550,0.53125
+Random,Insertion Sort,550,0.15625
+Random,Shell Sort,550,0.0
+Random,Quick Sort,550,0.015625
+Random,Quick Sort 2,550,0.015625
+Random,Quick Sort 3,550,0.0
+Random,Counting Sort,550,0.0
+Random,Selection Sort,600,0.71875
+Random,Insertion Sort,600,0.296875
+Random,Shell Sort,600,0.03125
+Random,Quick Sort,600,0.015625
+Random,Quick Sort 2,600,0.03125
+Random,Quick Sort 3,600,0.015625
+Random,Counting Sort,600,0.0
+Random,Selection Sort,650,0.328125
+Random,Insertion Sort,650,0.125
+Random,Shell Sort,650,0.015625
+Random,Quick Sort,650,0.015625
+Random,Quick Sort 2,650,0.015625
+Random,Quick Sort 3,650,0.015625
+Random,Counting Sort,650,0.0
+Random,Selection Sort,700,0.296875
+Random,Insertion Sort,700,0.171875
+Random,Shell Sort,700,0.0
+Random,Quick Sort,700,0.0
+Random,Quick Sort 2,700,0.03125
+Random,Quick Sort 3,700,0.015625
+Random,Counting Sort,700,0.015625
+Random,Selection Sort,750,0.46875
+Random,Insertion Sort,750,0.171875
+Random,Shell Sort,750,0.0
+Random,Quick Sort,750,0.046875
+Random,Quick Sort 2,750,0.03125
+Random,Quick Sort 3,750,0.015625
+Random,Counting Sort,750,0.0
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.0
+Poisson,Insertion Sort,100,0.0
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.0
+Poisson,Quick Sort 3,100,0.0
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.0
+Poisson,Insertion Sort,150,0.03125
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.0625
+Poisson,Insertion Sort,200,0.0
+Poisson,Shell Sort,200,0.0
+Poisson,Quick Sort,200,0.0
+Poisson,Quick Sort 2,200,0.0
+Poisson,Quick Sort 3,200,0.0
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.046875
+Poisson,Insertion Sort,250,0.015625
+Poisson,Shell Sort,250,0.0
+Poisson,Quick Sort,250,0.015625
+Poisson,Quick Sort 2,250,0.0
+Poisson,Quick Sort 3,250,0.0
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.0625
+Poisson,Insertion Sort,300,0.015625
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.015625
+Poisson,Quick Sort 2,300,0.0
+Poisson,Quick Sort 3,300,0.0
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.109375
+Poisson,Insertion Sort,350,0.03125
+Poisson,Shell Sort,350,0.0
+Poisson,Quick Sort,350,0.0
+Poisson,Quick Sort 2,350,0.0
+Poisson,Quick Sort 3,350,0.0
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.078125
+Poisson,Insertion Sort,400,0.0625
+Poisson,Shell Sort,400,0.0
+Poisson,Quick Sort,400,0.0
+Poisson,Quick Sort 2,400,0.0
+Poisson,Quick Sort 3,400,0.0
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.078125
+Poisson,Insertion Sort,450,0.046875
+Poisson,Shell Sort,450,0.0
+Poisson,Quick Sort,450,0.0
+Poisson,Quick Sort 2,450,0.0
+Poisson,Quick Sort 3,450,0.0
+Poisson,Counting Sort,450,0.0
+Poisson,Selection Sort,500,0.28125
+Poisson,Insertion Sort,500,0.15625
+Poisson,Shell Sort,500,0.015625
+Poisson,Quick Sort,500,0.03125
+Poisson,Quick Sort 2,500,0.015625
+Poisson,Quick Sort 3,500,0.015625
+Poisson,Counting Sort,500,0.0
+Poisson,Selection Sort,550,0.265625
+Poisson,Insertion Sort,550,0.109375
+Poisson,Shell Sort,550,0.0
+Poisson,Quick Sort,550,0.0
+Poisson,Quick Sort 2,550,0.0
+Poisson,Quick Sort 3,550,0.015625
+Poisson,Counting Sort,550,0.0
+Poisson,Selection Sort,600,0.109375
+Poisson,Insertion Sort,600,0.078125
+Poisson,Shell Sort,600,0.015625
+Poisson,Quick Sort,600,0.0
+Poisson,Quick Sort 2,600,0.015625
+Poisson,Quick Sort 3,600,0.0
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,0.328125
+Poisson,Insertion Sort,650,0.109375
+Poisson,Shell Sort,650,0.0
+Poisson,Quick Sort,650,0.0
+Poisson,Quick Sort 2,650,0.0
+Poisson,Quick Sort 3,650,0.0
+Poisson,Counting Sort,650,0.0
+Poisson,Selection Sort,700,0.296875
+Poisson,Insertion Sort,700,0.09375
+Poisson,Shell Sort,700,0.0
+Poisson,Quick Sort,700,0.03125
+Poisson,Quick Sort 2,700,0.015625
+Poisson,Quick Sort 3,700,0.0
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,0.265625
+Poisson,Insertion Sort,750,0.0625
+Poisson,Shell Sort,750,0.0
+Poisson,Quick Sort,750,0.0
+Poisson,Quick Sort 2,750,0.0
+Poisson,Quick Sort 3,750,0.015625
+Poisson,Counting Sort,750,0.015625
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.0
+Poisson,Insertion Sort,100,0.0
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.0
+Poisson,Quick Sort 3,100,0.0
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.0
+Poisson,Insertion Sort,150,0.015625
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.046875
+Poisson,Insertion Sort,200,0.0
+Poisson,Shell Sort,200,0.015625
+Poisson,Quick Sort,200,0.015625
+Poisson,Quick Sort 2,200,0.015625
+Poisson,Quick Sort 3,200,0.015625
+Poisson,Counting Sort,200,0.015625
+Poisson,Selection Sort,250,0.078125
+Poisson,Insertion Sort,250,0.046875
+Poisson,Shell Sort,250,0.015625
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.0
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.15625
+Poisson,Insertion Sort,300,0.046875
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.015625
+Poisson,Quick Sort 2,300,0.015625
+Poisson,Quick Sort 3,300,0.0
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.234375
+Poisson,Insertion Sort,350,0.0625
+Poisson,Shell Sort,350,0.0
+Poisson,Quick Sort,350,0.015625
+Poisson,Quick Sort 2,350,0.03125
+Poisson,Quick Sort 3,350,0.015625
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.359375
+Poisson,Insertion Sort,400,0.09375
+Poisson,Shell Sort,400,0.015625
+Poisson,Quick Sort,400,0.015625
+Poisson,Quick Sort 2,400,0.015625
+Poisson,Quick Sort 3,400,0.015625
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.421875
+Poisson,Insertion Sort,450,0.1875
+Poisson,Shell Sort,450,0.015625
+Poisson,Quick Sort,450,0.0
+Poisson,Quick Sort 2,450,0.0
+Poisson,Quick Sort 3,450,0.03125
+Poisson,Counting Sort,450,0.015625
+Poisson,Selection Sort,500,0.34375
+Poisson,Insertion Sort,500,0.1875
+Poisson,Shell Sort,500,0.03125
+Poisson,Quick Sort,500,0.03125
+Poisson,Quick Sort 2,500,0.0
+Poisson,Quick Sort 3,500,0.03125
+Poisson,Counting Sort,500,0.0
+Poisson,Selection Sort,550,0.671875
+Poisson,Insertion Sort,550,0.1875
+Poisson,Shell Sort,550,0.015625
+Poisson,Quick Sort,550,0.0
+Poisson,Quick Sort 2,550,0.0
+Poisson,Quick Sort 3,550,0.015625
+Poisson,Counting Sort,550,0.0
+Poisson,Selection Sort,600,0.546875
+Poisson,Insertion Sort,600,0.3125
+Poisson,Shell Sort,600,0.0
+Poisson,Quick Sort,600,0.03125
+Poisson,Quick Sort 2,600,0.0
+Poisson,Quick Sort 3,600,0.03125
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,0.5625
+Poisson,Insertion Sort,650,0.359375
+Poisson,Shell Sort,650,0.046875
+Poisson,Quick Sort,650,0.015625
+Poisson,Quick Sort 2,650,0.03125
+Poisson,Quick Sort 3,650,0.0
+Poisson,Counting Sort,650,0.015625
+Poisson,Selection Sort,700,0.734375
+Poisson,Insertion Sort,700,0.421875
+Poisson,Shell Sort,700,0.03125
+Poisson,Quick Sort,700,0.046875
+Poisson,Quick Sort 2,700,0.015625
+Poisson,Quick Sort 3,700,0.03125
+Poisson,Counting Sort,700,0.015625
+Poisson,Selection Sort,750,1.21875
+Poisson,Insertion Sort,750,0.484375
+Poisson,Shell Sort,750,0.0625
+Poisson,Quick Sort,750,0.015625
+Poisson,Quick Sort 2,750,0.03125
+Poisson,Quick Sort 3,750,0.015625
+Poisson,Counting Sort,750,0.015625
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.015625
+Poisson,Insertion Sort,100,0.015625
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.0
+Poisson,Quick Sort 3,100,0.0
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.03125
+Poisson,Insertion Sort,150,0.015625
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.015625
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.015625
+Poisson,Selection Sort,200,0.015625
+Poisson,Insertion Sort,200,0.03125
+Poisson,Shell Sort,200,0.0
+Poisson,Quick Sort,200,0.015625
+Poisson,Quick Sort 2,200,0.015625
+Poisson,Quick Sort 3,200,0.0
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.125
+Poisson,Insertion Sort,250,0.0
+Poisson,Shell Sort,250,0.0
+Poisson,Quick Sort,250,0.015625
+Poisson,Quick Sort 2,250,0.0
+Poisson,Quick Sort 3,250,0.0
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.03125
+Poisson,Insertion Sort,300,0.03125
+Poisson,Shell Sort,300,0.0
+Poisson,Quick Sort,300,0.015625
+Poisson,Quick Sort 2,300,0.0
+Poisson,Quick Sort 3,300,0.0
+Poisson,Counting Sort,300,0.015625
+Poisson,Selection Sort,350,0.28125
+Poisson,Insertion Sort,350,0.078125
+Poisson,Shell Sort,350,0.03125
+Poisson,Quick Sort,350,0.03125
+Poisson,Quick Sort 2,350,0.015625
+Poisson,Quick Sort 3,350,0.03125
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.25
+Poisson,Insertion Sort,400,0.046875
+Poisson,Shell Sort,400,0.015625
+Poisson,Quick Sort,400,0.015625
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.0
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.28125
+Poisson,Insertion Sort,450,0.1875
+Poisson,Shell Sort,450,0.0
+Poisson,Quick Sort,450,0.0
+Poisson,Quick Sort 2,450,0.0
+Poisson,Quick Sort 3,450,0.03125
+Poisson,Counting Sort,450,0.015625
+Poisson,Selection Sort,500,0.453125
+Poisson,Insertion Sort,500,0.140625
+Poisson,Shell Sort,500,0.0
+Poisson,Quick Sort,500,0.015625
+Poisson,Quick Sort 2,500,0.015625
+Poisson,Quick Sort 3,500,0.0
+Poisson,Counting Sort,500,0.0
+Poisson,Selection Sort,550,0.5625
+Poisson,Insertion Sort,550,0.21875
+Poisson,Shell Sort,550,0.03125
+Poisson,Quick Sort,550,0.015625
+Poisson,Quick Sort 2,550,0.046875
+Poisson,Quick Sort 3,550,0.03125
+Poisson,Counting Sort,550,0.015625
+Poisson,Selection Sort,600,0.515625
+Poisson,Insertion Sort,600,0.28125
+Poisson,Shell Sort,600,0.03125
+Poisson,Quick Sort,600,0.03125
+Poisson,Quick Sort 2,600,0.015625
+Poisson,Quick Sort 3,600,0.0
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,0.609375
+Poisson,Insertion Sort,650,0.25
+Poisson,Shell Sort,650,0.0
+Poisson,Quick Sort,650,0.03125
+Poisson,Quick Sort 2,650,0.03125
+Poisson,Quick Sort 3,650,0.03125
+Poisson,Counting Sort,650,0.015625
+Poisson,Selection Sort,700,0.890625
+Poisson,Insertion Sort,700,0.421875
+Poisson,Shell Sort,700,0.03125
+Poisson,Quick Sort,700,0.015625
+Poisson,Quick Sort 2,700,0.03125
+Poisson,Quick Sort 3,700,0.03125
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,1.0
+Poisson,Insertion Sort,750,0.375
+Poisson,Shell Sort,750,0.015625
+Poisson,Quick Sort,750,0.078125
+Poisson,Quick Sort 2,750,0.0
+Poisson,Quick Sort 3,750,0.046875
+Poisson,Counting Sort,750,0.0
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.0
+Poisson,Insertion Sort,100,0.0
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.015625
+Poisson,Quick Sort 3,100,0.015625
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.03125
+Poisson,Insertion Sort,150,0.0
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.015625
+Poisson,Selection Sort,200,0.046875
+Poisson,Insertion Sort,200,0.015625
+Poisson,Shell Sort,200,0.015625
+Poisson,Quick Sort,200,0.015625
+Poisson,Quick Sort 2,200,0.0
+Poisson,Quick Sort 3,200,0.0
+Poisson,Counting Sort,200,0.015625
+Poisson,Selection Sort,250,0.0625
+Poisson,Insertion Sort,250,0.03125
+Poisson,Shell Sort,250,0.0
+Poisson,Quick Sort,250,0.015625
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.03125
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.109375
+Poisson,Insertion Sort,300,0.015625
+Poisson,Shell Sort,300,0.03125
+Poisson,Quick Sort,300,0.0
+Poisson,Quick Sort 2,300,0.0
+Poisson,Quick Sort 3,300,0.015625
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.28125
+Poisson,Insertion Sort,350,0.0625
+Poisson,Shell Sort,350,0.015625
+Poisson,Quick Sort,350,0.0
+Poisson,Quick Sort 2,350,0.0
+Poisson,Quick Sort 3,350,0.0
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.28125
+Poisson,Insertion Sort,400,0.09375
+Poisson,Shell Sort,400,0.0
+Poisson,Quick Sort,400,0.0
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.0
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.3125
+Poisson,Insertion Sort,450,0.046875
+Poisson,Shell Sort,450,0.0
+Poisson,Quick Sort,450,0.015625
+Poisson,Quick Sort 2,450,0.0
+Poisson,Quick Sort 3,450,0.0
+Poisson,Counting Sort,450,0.0
+Poisson,Selection Sort,500,0.234375
+Poisson,Insertion Sort,500,0.078125
+Poisson,Shell Sort,500,0.03125
+Poisson,Quick Sort,500,0.0
+Poisson,Quick Sort 2,500,0.0
+Poisson,Quick Sort 3,500,0.0
+Poisson,Counting Sort,500,0.0
+Poisson,Selection Sort,550,0.203125
+Poisson,Insertion Sort,550,0.078125
+Poisson,Shell Sort,550,0.0
+Poisson,Quick Sort,550,0.015625
+Poisson,Quick Sort 2,550,0.0
+Poisson,Quick Sort 3,550,0.015625
+Poisson,Counting Sort,550,0.0
+Poisson,Selection Sort,600,0.515625
+Poisson,Insertion Sort,600,0.296875
+Poisson,Shell Sort,600,0.015625
+Poisson,Quick Sort,600,0.03125
+Poisson,Quick Sort 2,600,0.0
+Poisson,Quick Sort 3,600,0.015625
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,0.765625
+Poisson,Insertion Sort,650,0.375
+Poisson,Shell Sort,650,0.0
+Poisson,Quick Sort,650,0.015625
+Poisson,Quick Sort 2,650,0.015625
+Poisson,Quick Sort 3,650,0.015625
+Poisson,Counting Sort,650,0.0
+Poisson,Selection Sort,700,0.875
+Poisson,Insertion Sort,700,0.21875
+Poisson,Shell Sort,700,0.03125
+Poisson,Quick Sort,700,0.03125
+Poisson,Quick Sort 2,700,0.015625
+Poisson,Quick Sort 3,700,0.046875
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,1.484375
+Poisson,Insertion Sort,750,1.109375
+Poisson,Shell Sort,750,0.109375
+Poisson,Quick Sort,750,0.0625
+Poisson,Quick Sort 2,750,0.09375
+Poisson,Quick Sort 3,750,0.03125
+Poisson,Counting Sort,750,0.046875
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.015625
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.015625
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.078125
+Poisson,Insertion Sort,100,0.015625
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.0
+Poisson,Quick Sort 3,100,0.015625
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.09375
+Poisson,Insertion Sort,150,0.03125
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.03125
+Poisson,Quick Sort 2,150,0.015625
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.15625
+Poisson,Insertion Sort,200,0.03125
+Poisson,Shell Sort,200,0.046875
+Poisson,Quick Sort,200,0.03125
+Poisson,Quick Sort 2,200,0.046875
+Poisson,Quick Sort 3,200,0.03125
+Poisson,Counting Sort,200,0.015625
+Poisson,Selection Sort,250,0.15625
+Poisson,Insertion Sort,250,0.140625
+Poisson,Shell Sort,250,0.015625
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.015625
+Poisson,Counting Sort,250,0.015625
+Poisson,Selection Sort,300,0.40625
+Poisson,Insertion Sort,300,0.109375
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.03125
+Poisson,Quick Sort 2,300,0.03125
+Poisson,Quick Sort 3,300,0.015625
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.5
+Poisson,Insertion Sort,350,0.125
+Poisson,Shell Sort,350,0.015625
+Poisson,Quick Sort,350,0.03125
+Poisson,Quick Sort 2,350,0.015625
+Poisson,Quick Sort 3,350,0.0625
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.59375
+Poisson,Insertion Sort,400,0.265625
+Poisson,Shell Sort,400,0.015625
+Poisson,Quick Sort,400,0.015625
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.0625
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.828125
+Poisson,Insertion Sort,450,0.328125
+Poisson,Shell Sort,450,0.03125
+Poisson,Quick Sort,450,0.015625
+Poisson,Quick Sort 2,450,0.0625
+Poisson,Quick Sort 3,450,0.015625
+Poisson,Counting Sort,450,0.03125
+Poisson,Selection Sort,500,1.03125
+Poisson,Insertion Sort,500,0.46875
+Poisson,Shell Sort,500,0.015625
+Poisson,Quick Sort,500,0.0625
+Poisson,Quick Sort 2,500,0.046875
+Poisson,Quick Sort 3,500,0.03125
+Poisson,Counting Sort,500,0.015625
+Poisson,Selection Sort,550,1.140625
+Poisson,Insertion Sort,550,0.546875
+Poisson,Shell Sort,550,0.03125
+Poisson,Quick Sort,550,0.015625
+Poisson,Quick Sort 2,550,0.03125
+Poisson,Quick Sort 3,550,0.046875
+Poisson,Counting Sort,550,0.03125
+Poisson,Selection Sort,600,1.28125
+Poisson,Insertion Sort,600,0.71875
+Poisson,Shell Sort,600,0.0625
+Poisson,Quick Sort,600,0.046875
+Poisson,Quick Sort 2,600,0.078125
+Poisson,Quick Sort 3,600,0.015625
+Poisson,Counting Sort,600,0.015625
+Poisson,Selection Sort,650,1.890625
+Poisson,Insertion Sort,650,1.421875
+Poisson,Shell Sort,650,0.0625
+Poisson,Quick Sort,650,0.078125
+Poisson,Quick Sort 2,650,0.03125
+Poisson,Quick Sort 3,650,0.1875
+Poisson,Counting Sort,650,0.046875
+Poisson,Selection Sort,700,4.46875
+Poisson,Insertion Sort,700,1.078125
+Poisson,Shell Sort,700,0.09375
+Poisson,Quick Sort,700,0.0625
+Poisson,Quick Sort 2,700,0.0625
+Poisson,Quick Sort 3,700,0.0625
+Poisson,Counting Sort,700,0.015625
+Poisson,Selection Sort,750,2.75
+Poisson,Insertion Sort,750,1.453125
+Poisson,Shell Sort,750,0.15625
+Poisson,Quick Sort,750,0.109375
+Poisson,Quick Sort 2,750,0.125
+Poisson,Quick Sort 3,750,0.171875
+Poisson,Counting Sort,750,0.109375
+Poisson,Selection Sort,50,0.03125
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.03125
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.078125
+Poisson,Insertion Sort,100,0.078125
+Poisson,Shell Sort,100,0.03125
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.015625
+Poisson,Quick Sort 3,100,0.0625
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.1875
+Poisson,Insertion Sort,150,0.203125
+Poisson,Shell Sort,150,0.015625
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.015625
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.015625
+Poisson,Selection Sort,200,0.34375
+Poisson,Insertion Sort,200,0.21875
+Poisson,Shell Sort,200,0.03125
+Poisson,Quick Sort,200,0.03125
+Poisson,Quick Sort 2,200,0.03125
+Poisson,Quick Sort 3,200,0.015625
+Poisson,Counting Sort,200,0.015625
+Poisson,Selection Sort,250,0.375
+Poisson,Insertion Sort,250,0.328125
+Poisson,Shell Sort,250,0.0625
+Poisson,Quick Sort,250,0.015625
+Poisson,Quick Sort 2,250,0.046875
+Poisson,Quick Sort 3,250,0.046875
+Poisson,Counting Sort,250,0.015625
+Poisson,Selection Sort,300,0.890625
+Poisson,Insertion Sort,300,0.109375
+Poisson,Shell Sort,300,0.046875
+Poisson,Quick Sort,300,0.015625
+Poisson,Quick Sort 2,300,0.015625
+Poisson,Quick Sort 3,300,0.015625
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.484375
+Poisson,Insertion Sort,350,0.28125
+Poisson,Shell Sort,350,0.03125
+Poisson,Quick Sort,350,0.015625
+Poisson,Quick Sort 2,350,0.015625
+Poisson,Quick Sort 3,350,0.03125
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.8125
+Poisson,Insertion Sort,400,0.328125
+Poisson,Shell Sort,400,0.03125
+Poisson,Quick Sort,400,0.03125
+Poisson,Quick Sort 2,400,0.015625
+Poisson,Quick Sort 3,400,0.078125
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,1.5
+Poisson,Insertion Sort,450,0.734375
+Poisson,Shell Sort,450,0.015625
+Poisson,Quick Sort,450,0.015625
+Poisson,Quick Sort 2,450,0.046875
+Poisson,Quick Sort 3,450,0.078125
+Poisson,Counting Sort,450,0.015625
+Poisson,Selection Sort,500,1.609375
+Poisson,Insertion Sort,500,1.5
+Poisson,Shell Sort,500,0.0625
+Poisson,Quick Sort,500,0.25
+Poisson,Quick Sort 2,500,0.046875
+Poisson,Quick Sort 3,500,0.15625
+Poisson,Counting Sort,500,0.078125
+Poisson,Selection Sort,550,1.921875
+Poisson,Insertion Sort,550,1.125
+Poisson,Shell Sort,550,0.0625
+Poisson,Quick Sort,550,0.015625
+Poisson,Quick Sort 2,550,0.015625
+Poisson,Quick Sort 3,550,0.046875
+Poisson,Counting Sort,550,0.03125
+Poisson,Selection Sort,600,2.765625
+Poisson,Insertion Sort,600,1.0625
+Poisson,Shell Sort,600,0.03125
+Poisson,Quick Sort,600,0.078125
+Poisson,Quick Sort 2,600,0.0625
+Poisson,Quick Sort 3,600,0.0625
+Poisson,Counting Sort,600,0.015625
+Poisson,Selection Sort,650,1.8125
+Poisson,Insertion Sort,650,1.25
+Poisson,Shell Sort,650,0.078125
+Poisson,Quick Sort,650,0.109375
+Poisson,Quick Sort 2,650,0.09375
+Poisson,Quick Sort 3,650,0.015625
+Poisson,Counting Sort,650,0.03125
+Poisson,Selection Sort,700,1.578125
+Poisson,Insertion Sort,700,0.828125
+Poisson,Shell Sort,700,0.0625
+Poisson,Quick Sort,700,0.015625
+Poisson,Quick Sort 2,700,0.03125
+Poisson,Quick Sort 3,700,0.078125
+Poisson,Counting Sort,700,0.046875
+Poisson,Selection Sort,750,1.875
+Poisson,Insertion Sort,750,1.046875
+Poisson,Shell Sort,750,0.078125
+Poisson,Quick Sort,750,0.03125
+Poisson,Quick Sort 2,750,0.046875
+Poisson,Quick Sort 3,750,0.09375
+Poisson,Counting Sort,750,0.015625
+Poisson,Selection Sort,50,0.03125
+Poisson,Insertion Sort,50,0.015625
+Poisson,Shell Sort,50,0.015625
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.015625
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.046875
+Poisson,Insertion Sort,100,0.015625
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.015625
+Poisson,Quick Sort 2,100,0.015625
+Poisson,Quick Sort 3,100,0.015625
+Poisson,Counting Sort,100,0.015625
+Poisson,Selection Sort,150,0.125
+Poisson,Insertion Sort,150,0.03125
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.015625
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.03125
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.140625
+Poisson,Insertion Sort,200,0.09375
+Poisson,Shell Sort,200,0.015625
+Poisson,Quick Sort,200,0.0
+Poisson,Quick Sort 2,200,0.0
+Poisson,Quick Sort 3,200,0.046875
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.1875
+Poisson,Insertion Sort,250,0.03125
+Poisson,Shell Sort,250,0.015625
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.03125
+Poisson,Counting Sort,250,0.03125
+Poisson,Selection Sort,300,0.375
+Poisson,Insertion Sort,300,0.03125
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.015625
+Poisson,Quick Sort 2,300,0.03125
+Poisson,Quick Sort 3,300,0.046875
+Poisson,Counting Sort,300,0.046875
+Poisson,Selection Sort,350,0.765625
+Poisson,Insertion Sort,350,0.796875
+Poisson,Shell Sort,350,0.140625
+Poisson,Quick Sort,350,0.078125
+Poisson,Quick Sort 2,350,0.046875
+Poisson,Quick Sort 3,350,0.03125
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,2.28125
+Poisson,Insertion Sort,400,0.671875
+Poisson,Shell Sort,400,0.078125
+Poisson,Quick Sort,400,0.078125
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.09375
+Poisson,Counting Sort,400,0.015625
+Poisson,Selection Sort,450,3.0
+Poisson,Insertion Sort,450,1.875
+Poisson,Shell Sort,450,0.1875
+Poisson,Quick Sort,450,0.078125
+Poisson,Quick Sort 2,450,0.109375
+Poisson,Quick Sort 3,450,0.25
+Poisson,Counting Sort,450,0.078125
+Poisson,Selection Sort,500,3.890625
+Poisson,Insertion Sort,500,0.34375
+Poisson,Shell Sort,500,0.0625
+Poisson,Quick Sort,500,0.03125
+Poisson,Quick Sort 2,500,0.0625
+Poisson,Quick Sort 3,500,0.078125
+Poisson,Counting Sort,500,0.015625
+Poisson,Selection Sort,550,1.4375
+Poisson,Insertion Sort,550,0.953125
+Poisson,Shell Sort,550,0.0625
+Poisson,Quick Sort,550,0.140625
+Poisson,Quick Sort 2,550,0.140625
+Poisson,Quick Sort 3,550,0.1875
+Poisson,Counting Sort,550,0.0625
+Poisson,Selection Sort,600,2.53125
+Poisson,Insertion Sort,600,1.03125
+Poisson,Shell Sort,600,0.03125
+Poisson,Quick Sort,600,0.078125
+Poisson,Quick Sort 2,600,0.0625
+Poisson,Quick Sort 3,600,0.0625
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,1.953125
+Poisson,Insertion Sort,650,0.734375
+Poisson,Shell Sort,650,0.0625
+Poisson,Quick Sort,650,0.0625
+Poisson,Quick Sort 2,650,0.03125
+Poisson,Quick Sort 3,650,0.03125
+Poisson,Counting Sort,650,0.0
+Poisson,Selection Sort,700,2.453125
+Poisson,Insertion Sort,700,1.125
+Poisson,Shell Sort,700,0.140625
+Poisson,Quick Sort,700,0.0625
+Poisson,Quick Sort 2,700,0.078125
+Poisson,Quick Sort 3,700,0.03125
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,2.59375
+Poisson,Insertion Sort,750,1.265625
+Poisson,Shell Sort,750,0.0625
+Poisson,Quick Sort,750,0.078125
+Poisson,Quick Sort 2,750,0.046875
+Poisson,Quick Sort 3,750,0.078125
+Poisson,Counting Sort,750,0.015625
+Poisson,Selection Sort,50,0.015625
+Poisson,Insertion Sort,50,0.015625
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.0
+Poisson,Insertion Sort,100,0.0
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.015625
+Poisson,Quick Sort 3,100,0.015625
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.0625
+Poisson,Insertion Sort,150,0.015625
+Poisson,Shell Sort,150,0.0
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.0
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.03125
+Poisson,Insertion Sort,200,0.015625
+Poisson,Shell Sort,200,0.03125
+Poisson,Quick Sort,200,0.0
+Poisson,Quick Sort 2,200,0.015625
+Poisson,Quick Sort 3,200,0.015625
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.125
+Poisson,Insertion Sort,250,0.078125
+Poisson,Shell Sort,250,0.015625
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.0
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.34375
+Poisson,Insertion Sort,300,0.0625
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.03125
+Poisson,Quick Sort 2,300,0.0
+Poisson,Quick Sort 3,300,0.03125
+Poisson,Counting Sort,300,0.015625
+Poisson,Selection Sort,350,0.484375
+Poisson,Insertion Sort,350,0.21875
+Poisson,Shell Sort,350,0.03125
+Poisson,Quick Sort,350,0.0
+Poisson,Quick Sort 2,350,0.0
+Poisson,Quick Sort 3,350,0.03125
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.734375
+Poisson,Insertion Sort,400,0.296875
+Poisson,Shell Sort,400,0.0625
+Poisson,Quick Sort,400,0.046875
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.03125
+Poisson,Counting Sort,400,0.015625
+Poisson,Selection Sort,450,0.953125
+Poisson,Insertion Sort,450,0.390625
+Poisson,Shell Sort,450,0.015625
+Poisson,Quick Sort,450,0.0
+Poisson,Quick Sort 2,450,0.0625
+Poisson,Quick Sort 3,450,0.0625
+Poisson,Counting Sort,450,0.0
+Poisson,Selection Sort,500,1.046875
+Poisson,Insertion Sort,500,0.328125
+Poisson,Shell Sort,500,0.03125
+Poisson,Quick Sort,500,0.0625
+Poisson,Quick Sort 2,500,0.03125
+Poisson,Quick Sort 3,500,0.03125
+Poisson,Counting Sort,500,0.015625
+Poisson,Selection Sort,550,1.1875
+Poisson,Insertion Sort,550,0.546875
+Poisson,Shell Sort,550,0.0625
+Poisson,Quick Sort,550,0.0625
+Poisson,Quick Sort 2,550,0.0625
+Poisson,Quick Sort 3,550,0.0625
+Poisson,Counting Sort,550,0.0
+Poisson,Selection Sort,600,1.515625
+Poisson,Insertion Sort,600,0.65625
+Poisson,Shell Sort,600,0.0625
+Poisson,Quick Sort,600,0.015625
+Poisson,Quick Sort 2,600,0.015625
+Poisson,Quick Sort 3,600,0.046875
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,1.84375
+Poisson,Insertion Sort,650,0.78125
+Poisson,Shell Sort,650,0.078125
+Poisson,Quick Sort,650,0.0625
+Poisson,Quick Sort 2,650,0.0625
+Poisson,Quick Sort 3,650,0.09375
+Poisson,Counting Sort,650,0.015625
+Poisson,Selection Sort,700,2.421875
+Poisson,Insertion Sort,700,0.75
+Poisson,Shell Sort,700,0.0625
+Poisson,Quick Sort,700,0.0625
+Poisson,Quick Sort 2,700,0.046875
+Poisson,Quick Sort 3,700,0.015625
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,2.421875
+Poisson,Insertion Sort,750,0.96875
+Poisson,Shell Sort,750,0.0625
+Poisson,Quick Sort,750,0.078125
+Poisson,Quick Sort 2,750,0.046875
+Poisson,Quick Sort 3,750,0.078125
+Poisson,Counting Sort,750,0.03125
+Poisson,Selection Sort,50,0.0
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.015625
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.0
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.0625
+Poisson,Insertion Sort,100,0.015625
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.0
+Poisson,Quick Sort 3,100,0.015625
+Poisson,Counting Sort,100,0.0
+Poisson,Selection Sort,150,0.125
+Poisson,Insertion Sort,150,0.0625
+Poisson,Shell Sort,150,0.015625
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.015625
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.1875
+Poisson,Insertion Sort,200,0.03125
+Poisson,Shell Sort,200,0.03125
+Poisson,Quick Sort,200,0.0
+Poisson,Quick Sort 2,200,0.046875
+Poisson,Quick Sort 3,200,0.015625
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.265625
+Poisson,Insertion Sort,250,0.0625
+Poisson,Shell Sort,250,0.0
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.015625
+Poisson,Quick Sort 3,250,0.0
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.46875
+Poisson,Insertion Sort,300,0.078125
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.046875
+Poisson,Quick Sort 2,300,0.03125
+Poisson,Quick Sort 3,300,0.015625
+Poisson,Counting Sort,300,0.015625
+Poisson,Selection Sort,350,0.421875
+Poisson,Insertion Sort,350,0.125
+Poisson,Shell Sort,350,0.015625
+Poisson,Quick Sort,350,0.046875
+Poisson,Quick Sort 2,350,0.015625
+Poisson,Quick Sort 3,350,0.046875
+Poisson,Counting Sort,350,0.0
+Poisson,Selection Sort,400,0.765625
+Poisson,Insertion Sort,400,0.34375
+Poisson,Shell Sort,400,0.03125
+Poisson,Quick Sort,400,0.0
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.015625
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,1.015625
+Poisson,Insertion Sort,450,0.375
+Poisson,Shell Sort,450,0.03125
+Poisson,Quick Sort,450,0.0625
+Poisson,Quick Sort 2,450,0.046875
+Poisson,Quick Sort 3,450,0.03125
+Poisson,Counting Sort,450,0.03125
+Poisson,Selection Sort,500,1.0
+Poisson,Insertion Sort,500,0.390625
+Poisson,Shell Sort,500,0.078125
+Poisson,Quick Sort,500,0.03125
+Poisson,Quick Sort 2,500,0.015625
+Poisson,Quick Sort 3,500,0.015625
+Poisson,Counting Sort,500,0.03125
+Poisson,Selection Sort,550,1.84375
+Poisson,Insertion Sort,550,1.03125
+Poisson,Shell Sort,550,0.015625
+Poisson,Quick Sort,550,0.078125
+Poisson,Quick Sort 2,550,0.046875
+Poisson,Quick Sort 3,550,0.078125
+Poisson,Counting Sort,550,0.015625
+Poisson,Selection Sort,600,1.53125
+Poisson,Insertion Sort,600,0.625
+Poisson,Shell Sort,600,0.046875
+Poisson,Quick Sort,600,0.078125
+Poisson,Quick Sort 2,600,0.015625
+Poisson,Quick Sort 3,600,0.0625
+Poisson,Counting Sort,600,0.0
+Poisson,Selection Sort,650,1.4375
+Poisson,Insertion Sort,650,0.640625
+Poisson,Shell Sort,650,0.078125
+Poisson,Quick Sort,650,0.09375
+Poisson,Quick Sort 2,650,0.046875
+Poisson,Quick Sort 3,650,0.046875
+Poisson,Counting Sort,650,0.046875
+Poisson,Selection Sort,700,2.03125
+Poisson,Insertion Sort,700,0.90625
+Poisson,Shell Sort,700,0.078125
+Poisson,Quick Sort,700,0.046875
+Poisson,Quick Sort 2,700,0.078125
+Poisson,Quick Sort 3,700,0.0625
+Poisson,Counting Sort,700,0.03125
+Poisson,Selection Sort,750,2.015625
+Poisson,Insertion Sort,750,1.03125
+Poisson,Shell Sort,750,0.03125
+Poisson,Quick Sort,750,0.078125
+Poisson,Quick Sort 2,750,0.0
+Poisson,Quick Sort 3,750,0.0625
+Poisson,Counting Sort,750,0.046875
+Poisson,Selection Sort,50,0.015625
+Poisson,Insertion Sort,50,0.0
+Poisson,Shell Sort,50,0.0
+Poisson,Quick Sort,50,0.0
+Poisson,Quick Sort 2,50,0.0
+Poisson,Quick Sort 3,50,0.015625
+Poisson,Counting Sort,50,0.0
+Poisson,Selection Sort,100,0.046875
+Poisson,Insertion Sort,100,0.015625
+Poisson,Shell Sort,100,0.0
+Poisson,Quick Sort,100,0.0
+Poisson,Quick Sort 2,100,0.015625
+Poisson,Quick Sort 3,100,0.0
+Poisson,Counting Sort,100,0.015625
+Poisson,Selection Sort,150,0.0625
+Poisson,Insertion Sort,150,0.015625
+Poisson,Shell Sort,150,0.03125
+Poisson,Quick Sort,150,0.0
+Poisson,Quick Sort 2,150,0.0
+Poisson,Quick Sort 3,150,0.015625
+Poisson,Counting Sort,150,0.0
+Poisson,Selection Sort,200,0.078125
+Poisson,Insertion Sort,200,0.046875
+Poisson,Shell Sort,200,0.03125
+Poisson,Quick Sort,200,0.0
+Poisson,Quick Sort 2,200,0.0
+Poisson,Quick Sort 3,200,0.015625
+Poisson,Counting Sort,200,0.0
+Poisson,Selection Sort,250,0.28125
+Poisson,Insertion Sort,250,0.09375
+Poisson,Shell Sort,250,0.015625
+Poisson,Quick Sort,250,0.0
+Poisson,Quick Sort 2,250,0.0
+Poisson,Quick Sort 3,250,0.046875
+Poisson,Counting Sort,250,0.0
+Poisson,Selection Sort,300,0.453125
+Poisson,Insertion Sort,300,0.140625
+Poisson,Shell Sort,300,0.015625
+Poisson,Quick Sort,300,0.078125
+Poisson,Quick Sort 2,300,0.03125
+Poisson,Quick Sort 3,300,0.03125
+Poisson,Counting Sort,300,0.0
+Poisson,Selection Sort,350,0.734375
+Poisson,Insertion Sort,350,0.203125
+Poisson,Shell Sort,350,0.03125
+Poisson,Quick Sort,350,0.03125
+Poisson,Quick Sort 2,350,0.0625
+Poisson,Quick Sort 3,350,0.015625
+Poisson,Counting Sort,350,0.015625
+Poisson,Selection Sort,400,0.8125
+Poisson,Insertion Sort,400,0.234375
+Poisson,Shell Sort,400,0.046875
+Poisson,Quick Sort,400,0.03125
+Poisson,Quick Sort 2,400,0.03125
+Poisson,Quick Sort 3,400,0.03125
+Poisson,Counting Sort,400,0.0
+Poisson,Selection Sort,450,0.921875
+Poisson,Insertion Sort,450,0.421875
+Poisson,Shell Sort,450,0.046875
+Poisson,Quick Sort,450,0.015625
+Poisson,Quick Sort 2,450,0.03125
+Poisson,Quick Sort 3,450,0.03125
+Poisson,Counting Sort,450,0.03125
+Poisson,Selection Sort,500,0.78125
+Poisson,Insertion Sort,500,0.328125
+Poisson,Shell Sort,500,0.015625
+Poisson,Quick Sort,500,0.0
+Poisson,Quick Sort 2,500,0.03125
+Poisson,Quick Sort 3,500,0.015625
+Poisson,Counting Sort,500,0.015625
+Poisson,Selection Sort,550,1.0
+Poisson,Insertion Sort,550,0.421875
+Poisson,Shell Sort,550,0.0625
+Poisson,Quick Sort,550,0.03125
+Poisson,Quick Sort 2,550,0.015625
+Poisson,Quick Sort 3,550,0.0625
+Poisson,Counting Sort,550,0.015625
+Poisson,Selection Sort,600,1.46875
+Poisson,Insertion Sort,600,0.5625
+Poisson,Shell Sort,600,0.078125
+Poisson,Quick Sort,600,0.046875
+Poisson,Quick Sort 2,600,0.0625
+Poisson,Quick Sort 3,600,0.078125
+Poisson,Counting Sort,600,0.03125
+Poisson,Selection Sort,650,2.03125
+Poisson,Insertion Sort,650,0.71875
+Poisson,Shell Sort,650,0.046875
+Poisson,Quick Sort,650,0.046875
+Poisson,Quick Sort 2,650,0.046875
+Poisson,Quick Sort 3,650,0.0625
+Poisson,Counting Sort,650,0.015625
+Poisson,Selection Sort,700,2.140625
+Poisson,Insertion Sort,700,0.828125
+Poisson,Shell Sort,700,0.03125
+Poisson,Quick Sort,700,0.078125
+Poisson,Quick Sort 2,700,0.0625
+Poisson,Quick Sort 3,700,0.0625
+Poisson,Counting Sort,700,0.0
+Poisson,Selection Sort,750,2.609375
+Poisson,Insertion Sort,750,0.921875
+Poisson,Shell Sort,750,0.03125
+Poisson,Quick Sort,750,0.03125
+Poisson,Quick Sort 2,750,0.046875
+Poisson,Quick Sort 3,750,0.09375
+Poisson,Counting Sort,750,0.0625
+Binomial,Selection Sort,50,0.0
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.015625
+Binomial,Selection Sort,100,0.015625
+Binomial,Insertion Sort,100,0.015625
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.015625
+Binomial,Quick Sort 3,100,0.015625
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.0625
+Binomial,Insertion Sort,150,0.015625
+Binomial,Shell Sort,150,0.0
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.0
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.125
+Binomial,Insertion Sort,200,0.046875
+Binomial,Shell Sort,200,0.03125
+Binomial,Quick Sort,200,0.0
+Binomial,Quick Sort 2,200,0.015625
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.203125
+Binomial,Insertion Sort,250,0.140625
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.0
+Binomial,Quick Sort 2,250,0.015625
+Binomial,Quick Sort 3,250,0.03125
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.359375
+Binomial,Insertion Sort,300,0.140625
+Binomial,Shell Sort,300,0.015625
+Binomial,Quick Sort,300,0.015625
+Binomial,Quick Sort 2,300,0.03125
+Binomial,Quick Sort 3,300,0.0
+Binomial,Counting Sort,300,0.0
+Binomial,Selection Sort,350,0.546875
+Binomial,Insertion Sort,350,0.140625
+Binomial,Shell Sort,350,0.046875
+Binomial,Quick Sort,350,0.046875
+Binomial,Quick Sort 2,350,0.046875
+Binomial,Quick Sort 3,350,0.046875
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.59375
+Binomial,Insertion Sort,400,0.15625
+Binomial,Shell Sort,400,0.0
+Binomial,Quick Sort,400,0.03125
+Binomial,Quick Sort 2,400,0.03125
+Binomial,Quick Sort 3,400,0.046875
+Binomial,Counting Sort,400,0.0
+Binomial,Selection Sort,450,0.875
+Binomial,Insertion Sort,450,0.5
+Binomial,Shell Sort,450,0.03125
+Binomial,Quick Sort,450,0.0
+Binomial,Quick Sort 2,450,0.03125
+Binomial,Quick Sort 3,450,0.015625
+Binomial,Counting Sort,450,0.015625
+Binomial,Selection Sort,500,0.84375
+Binomial,Insertion Sort,500,0.515625
+Binomial,Shell Sort,500,0.03125
+Binomial,Quick Sort,500,0.046875
+Binomial,Quick Sort 2,500,0.046875
+Binomial,Quick Sort 3,500,0.0
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,1.265625
+Binomial,Insertion Sort,550,0.515625
+Binomial,Shell Sort,550,0.046875
+Binomial,Quick Sort,550,0.09375
+Binomial,Quick Sort 2,550,0.046875
+Binomial,Quick Sort 3,550,0.015625
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,2.046875
+Binomial,Insertion Sort,600,0.765625
+Binomial,Shell Sort,600,0.078125
+Binomial,Quick Sort,600,0.046875
+Binomial,Quick Sort 2,600,0.09375
+Binomial,Quick Sort 3,600,0.0625
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,2.3125
+Binomial,Insertion Sort,650,0.84375
+Binomial,Shell Sort,650,0.125
+Binomial,Quick Sort,650,0.0625
+Binomial,Quick Sort 2,650,0.09375
+Binomial,Quick Sort 3,650,0.0625
+Binomial,Counting Sort,650,0.015625
+Binomial,Selection Sort,700,2.84375
+Binomial,Insertion Sort,700,1.1875
+Binomial,Shell Sort,700,0.109375
+Binomial,Quick Sort,700,0.109375
+Binomial,Quick Sort 2,700,0.09375
+Binomial,Quick Sort 3,700,0.03125
+Binomial,Counting Sort,700,0.015625
+Binomial,Selection Sort,750,2.640625
+Binomial,Insertion Sort,750,1.0
+Binomial,Shell Sort,750,0.0625
+Binomial,Quick Sort,750,0.078125
+Binomial,Quick Sort 2,750,0.078125
+Binomial,Quick Sort 3,750,0.109375
+Binomial,Counting Sort,750,0.03125
+Binomial,Selection Sort,50,0.0
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.015625
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.03125
+Binomial,Insertion Sort,100,0.015625
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.0
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.046875
+Binomial,Insertion Sort,150,0.03125
+Binomial,Shell Sort,150,0.015625
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.0
+Binomial,Quick Sort 3,150,0.03125
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.15625
+Binomial,Insertion Sort,200,0.078125
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.0
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.0
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.171875
+Binomial,Insertion Sort,250,0.09375
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.046875
+Binomial,Quick Sort 2,250,0.0
+Binomial,Quick Sort 3,250,0.03125
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.484375
+Binomial,Insertion Sort,300,0.15625
+Binomial,Shell Sort,300,0.03125
+Binomial,Quick Sort,300,0.046875
+Binomial,Quick Sort 2,300,0.046875
+Binomial,Quick Sort 3,300,0.078125
+Binomial,Counting Sort,300,0.0
+Binomial,Selection Sort,350,0.578125
+Binomial,Insertion Sort,350,0.890625
+Binomial,Shell Sort,350,0.078125
+Binomial,Quick Sort,350,0.125
+Binomial,Quick Sort 2,350,0.078125
+Binomial,Quick Sort 3,350,0.15625
+Binomial,Counting Sort,350,0.0
+Binomial,Selection Sort,400,0.984375
+Binomial,Insertion Sort,400,0.28125
+Binomial,Shell Sort,400,0.046875
+Binomial,Quick Sort,400,0.03125
+Binomial,Quick Sort 2,400,0.015625
+Binomial,Quick Sort 3,400,0.0
+Binomial,Counting Sort,400,0.0
+Binomial,Selection Sort,450,0.703125
+Binomial,Insertion Sort,450,0.484375
+Binomial,Shell Sort,450,0.03125
+Binomial,Quick Sort,450,0.015625
+Binomial,Quick Sort 2,450,0.046875
+Binomial,Quick Sort 3,450,0.046875
+Binomial,Counting Sort,450,0.0
+Binomial,Selection Sort,500,0.796875
+Binomial,Insertion Sort,500,0.296875
+Binomial,Shell Sort,500,0.015625
+Binomial,Quick Sort,500,0.078125
+Binomial,Quick Sort 2,500,0.046875
+Binomial,Quick Sort 3,500,0.09375
+Binomial,Counting Sort,500,0.03125
+Binomial,Selection Sort,550,1.609375
+Binomial,Insertion Sort,550,0.546875
+Binomial,Shell Sort,550,0.03125
+Binomial,Quick Sort,550,0.015625
+Binomial,Quick Sort 2,550,0.046875
+Binomial,Quick Sort 3,550,0.046875
+Binomial,Counting Sort,550,0.03125
+Binomial,Selection Sort,600,1.4375
+Binomial,Insertion Sort,600,0.765625
+Binomial,Shell Sort,600,0.046875
+Binomial,Quick Sort,600,0.09375
+Binomial,Quick Sort 2,600,0.015625
+Binomial,Quick Sort 3,600,0.015625
+Binomial,Counting Sort,600,0.03125
+Binomial,Selection Sort,650,1.953125
+Binomial,Insertion Sort,650,0.765625
+Binomial,Shell Sort,650,0.0625
+Binomial,Quick Sort,650,0.078125
+Binomial,Quick Sort 2,650,0.015625
+Binomial,Quick Sort 3,650,0.078125
+Binomial,Counting Sort,650,0.03125
+Binomial,Selection Sort,700,2.078125
+Binomial,Insertion Sort,700,1.015625
+Binomial,Shell Sort,700,0.015625
+Binomial,Quick Sort,700,0.078125
+Binomial,Quick Sort 2,700,0.078125
+Binomial,Quick Sort 3,700,0.046875
+Binomial,Counting Sort,700,0.015625
+Binomial,Selection Sort,750,2.25
+Binomial,Insertion Sort,750,1.046875
+Binomial,Shell Sort,750,0.09375
+Binomial,Quick Sort,750,0.09375
+Binomial,Quick Sort 2,750,0.0625
+Binomial,Quick Sort 3,750,0.0625
+Binomial,Counting Sort,750,0.03125
+Binomial,Selection Sort,50,0.015625
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.015625
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.015625
+Binomial,Insertion Sort,100,0.015625
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.015625
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.078125
+Binomial,Insertion Sort,150,0.015625
+Binomial,Shell Sort,150,0.015625
+Binomial,Quick Sort,150,0.015625
+Binomial,Quick Sort 2,150,0.015625
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.015625
+Binomial,Selection Sort,200,0.078125
+Binomial,Insertion Sort,200,0.03125
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.015625
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.0
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.203125
+Binomial,Insertion Sort,250,0.125
+Binomial,Shell Sort,250,0.0
+Binomial,Quick Sort,250,0.015625
+Binomial,Quick Sort 2,250,0.0
+Binomial,Quick Sort 3,250,0.015625
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.4375
+Binomial,Insertion Sort,300,0.09375
+Binomial,Shell Sort,300,0.046875
+Binomial,Quick Sort,300,0.015625
+Binomial,Quick Sort 2,300,0.03125
+Binomial,Quick Sort 3,300,0.015625
+Binomial,Counting Sort,300,0.015625
+Binomial,Selection Sort,350,0.5625
+Binomial,Insertion Sort,350,0.1875
+Binomial,Shell Sort,350,0.046875
+Binomial,Quick Sort,350,0.015625
+Binomial,Quick Sort 2,350,0.03125
+Binomial,Quick Sort 3,350,0.015625
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.609375
+Binomial,Insertion Sort,400,0.265625
+Binomial,Shell Sort,400,0.0
+Binomial,Quick Sort,400,0.046875
+Binomial,Quick Sort 2,400,0.0
+Binomial,Quick Sort 3,400,0.046875
+Binomial,Counting Sort,400,0.03125
+Binomial,Selection Sort,450,0.84375
+Binomial,Insertion Sort,450,0.453125
+Binomial,Shell Sort,450,0.046875
+Binomial,Quick Sort,450,0.046875
+Binomial,Quick Sort 2,450,0.0625
+Binomial,Quick Sort 3,450,0.0625
+Binomial,Counting Sort,450,0.015625
+Binomial,Selection Sort,500,1.296875
+Binomial,Insertion Sort,500,0.40625
+Binomial,Shell Sort,500,0.078125
+Binomial,Quick Sort,500,0.03125
+Binomial,Quick Sort 2,500,0.046875
+Binomial,Quick Sort 3,500,0.015625
+Binomial,Counting Sort,500,0.0
+Binomial,Selection Sort,550,1.21875
+Binomial,Insertion Sort,550,0.59375
+Binomial,Shell Sort,550,0.03125
+Binomial,Quick Sort,550,0.078125
+Binomial,Quick Sort 2,550,0.046875
+Binomial,Quick Sort 3,550,0.03125
+Binomial,Counting Sort,550,0.0
+Binomial,Selection Sort,600,1.421875
+Binomial,Insertion Sort,600,0.53125
+Binomial,Shell Sort,600,0.0625
+Binomial,Quick Sort,600,0.0625
+Binomial,Quick Sort 2,600,0.0625
+Binomial,Quick Sort 3,600,0.0625
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,1.78125
+Binomial,Insertion Sort,650,0.828125
+Binomial,Shell Sort,650,0.0625
+Binomial,Quick Sort,650,0.0625
+Binomial,Quick Sort 2,650,0.046875
+Binomial,Quick Sort 3,650,0.046875
+Binomial,Counting Sort,650,0.015625
+Binomial,Selection Sort,700,1.96875
+Binomial,Insertion Sort,700,0.953125
+Binomial,Shell Sort,700,0.046875
+Binomial,Quick Sort,700,0.0625
+Binomial,Quick Sort 2,700,0.078125
+Binomial,Quick Sort 3,700,0.046875
+Binomial,Counting Sort,700,0.015625
+Binomial,Selection Sort,750,2.109375
+Binomial,Insertion Sort,750,1.078125
+Binomial,Shell Sort,750,0.078125
+Binomial,Quick Sort,750,0.125
+Binomial,Quick Sort 2,750,0.09375
+Binomial,Quick Sort 3,750,0.046875
+Binomial,Counting Sort,750,0.015625
+Binomial,Selection Sort,50,0.015625
+Binomial,Insertion Sort,50,0.015625
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.015625
+Binomial,Selection Sort,100,0.046875
+Binomial,Insertion Sort,100,0.0
+Binomial,Shell Sort,100,0.015625
+Binomial,Quick Sort,100,0.015625
+Binomial,Quick Sort 2,100,0.015625
+Binomial,Quick Sort 3,100,0.03125
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.0625
+Binomial,Insertion Sort,150,0.03125
+Binomial,Shell Sort,150,0.0
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.0
+Binomial,Quick Sort 3,150,0.015625
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.140625
+Binomial,Insertion Sort,200,0.09375
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.015625
+Binomial,Quick Sort 2,200,0.03125
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.234375
+Binomial,Insertion Sort,250,0.0625
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.03125
+Binomial,Quick Sort 2,250,0.03125
+Binomial,Quick Sort 3,250,0.015625
+Binomial,Counting Sort,250,0.015625
+Binomial,Selection Sort,300,0.34375
+Binomial,Insertion Sort,300,0.078125
+Binomial,Shell Sort,300,0.0
+Binomial,Quick Sort,300,0.015625
+Binomial,Quick Sort 2,300,0.0
+Binomial,Quick Sort 3,300,0.015625
+Binomial,Counting Sort,300,0.015625
+Binomial,Selection Sort,350,0.484375
+Binomial,Insertion Sort,350,0.21875
+Binomial,Shell Sort,350,0.015625
+Binomial,Quick Sort,350,0.015625
+Binomial,Quick Sort 2,350,0.03125
+Binomial,Quick Sort 3,350,0.03125
+Binomial,Counting Sort,350,0.03125
+Binomial,Selection Sort,400,0.59375
+Binomial,Insertion Sort,400,0.234375
+Binomial,Shell Sort,400,0.03125
+Binomial,Quick Sort,400,0.0
+Binomial,Quick Sort 2,400,0.015625
+Binomial,Quick Sort 3,400,0.03125
+Binomial,Counting Sort,400,0.0
+Binomial,Selection Sort,450,0.796875
+Binomial,Insertion Sort,450,0.375
+Binomial,Shell Sort,450,0.046875
+Binomial,Quick Sort,450,0.0
+Binomial,Quick Sort 2,450,0.046875
+Binomial,Quick Sort 3,450,0.03125
+Binomial,Counting Sort,450,0.0
+Binomial,Selection Sort,500,0.875
+Binomial,Insertion Sort,500,0.46875
+Binomial,Shell Sort,500,0.015625
+Binomial,Quick Sort,500,0.03125
+Binomial,Quick Sort 2,500,0.0
+Binomial,Quick Sort 3,500,0.015625
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,0.359375
+Binomial,Insertion Sort,550,0.09375
+Binomial,Shell Sort,550,0.015625
+Binomial,Quick Sort,550,0.015625
+Binomial,Quick Sort 2,550,0.046875
+Binomial,Quick Sort 3,550,0.015625
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,0.53125
+Binomial,Insertion Sort,600,0.1875
+Binomial,Shell Sort,600,0.015625
+Binomial,Quick Sort,600,0.03125
+Binomial,Quick Sort 2,600,0.015625
+Binomial,Quick Sort 3,600,0.0625
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,0.59375
+Binomial,Insertion Sort,650,0.265625
+Binomial,Shell Sort,650,0.0
+Binomial,Quick Sort,650,0.0
+Binomial,Quick Sort 2,650,0.015625
+Binomial,Quick Sort 3,650,0.046875
+Binomial,Counting Sort,650,0.015625
+Binomial,Selection Sort,700,0.734375
+Binomial,Insertion Sort,700,0.296875
+Binomial,Shell Sort,700,0.015625
+Binomial,Quick Sort,700,0.015625
+Binomial,Quick Sort 2,700,0.03125
+Binomial,Quick Sort 3,700,0.015625
+Binomial,Counting Sort,700,0.0
+Binomial,Selection Sort,750,0.765625
+Binomial,Insertion Sort,750,0.390625
+Binomial,Shell Sort,750,0.03125
+Binomial,Quick Sort,750,0.015625
+Binomial,Quick Sort 2,750,0.03125
+Binomial,Quick Sort 3,750,0.015625
+Binomial,Counting Sort,750,0.0
+Binomial,Selection Sort,50,0.0
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.0
+Binomial,Insertion Sort,100,0.0
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.0
+Binomial,Counting Sort,100,0.015625
+Binomial,Selection Sort,150,0.03125
+Binomial,Insertion Sort,150,0.0
+Binomial,Shell Sort,150,0.015625
+Binomial,Quick Sort,150,0.015625
+Binomial,Quick Sort 2,150,0.0
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.078125
+Binomial,Insertion Sort,200,0.078125
+Binomial,Shell Sort,200,0.03125
+Binomial,Quick Sort,200,0.0
+Binomial,Quick Sort 2,200,0.046875
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.203125
+Binomial,Insertion Sort,250,0.046875
+Binomial,Shell Sort,250,0.0
+Binomial,Quick Sort,250,0.015625
+Binomial,Quick Sort 2,250,0.03125
+Binomial,Quick Sort 3,250,0.0
+Binomial,Counting Sort,250,0.015625
+Binomial,Selection Sort,300,0.3125
+Binomial,Insertion Sort,300,0.21875
+Binomial,Shell Sort,300,0.03125
+Binomial,Quick Sort,300,0.03125
+Binomial,Quick Sort 2,300,0.015625
+Binomial,Quick Sort 3,300,0.046875
+Binomial,Counting Sort,300,0.0
+Binomial,Selection Sort,350,0.5
+Binomial,Insertion Sort,350,0.140625
+Binomial,Shell Sort,350,0.03125
+Binomial,Quick Sort,350,0.03125
+Binomial,Quick Sort 2,350,0.015625
+Binomial,Quick Sort 3,350,0.03125
+Binomial,Counting Sort,350,0.0
+Binomial,Selection Sort,400,0.59375
+Binomial,Insertion Sort,400,0.25
+Binomial,Shell Sort,400,0.03125
+Binomial,Quick Sort,400,0.03125
+Binomial,Quick Sort 2,400,0.015625
+Binomial,Quick Sort 3,400,0.03125
+Binomial,Counting Sort,400,0.03125
+Binomial,Selection Sort,450,0.78125
+Binomial,Insertion Sort,450,0.34375
+Binomial,Shell Sort,450,0.015625
+Binomial,Quick Sort,450,0.0625
+Binomial,Quick Sort 2,450,0.0
+Binomial,Quick Sort 3,450,0.0
+Binomial,Counting Sort,450,0.015625
+Binomial,Selection Sort,500,1.0625
+Binomial,Insertion Sort,500,0.453125
+Binomial,Shell Sort,500,0.078125
+Binomial,Quick Sort,500,0.0625
+Binomial,Quick Sort 2,500,0.015625
+Binomial,Quick Sort 3,500,0.078125
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,1.15625
+Binomial,Insertion Sort,550,0.796875
+Binomial,Shell Sort,550,0.0625
+Binomial,Quick Sort,550,0.046875
+Binomial,Quick Sort 2,550,0.03125
+Binomial,Quick Sort 3,550,0.03125
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,1.921875
+Binomial,Insertion Sort,600,0.828125
+Binomial,Shell Sort,600,0.046875
+Binomial,Quick Sort,600,0.03125
+Binomial,Quick Sort 2,600,0.03125
+Binomial,Quick Sort 3,600,0.046875
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,2.0625
+Binomial,Insertion Sort,650,0.65625
+Binomial,Shell Sort,650,0.0625
+Binomial,Quick Sort,650,0.078125
+Binomial,Quick Sort 2,650,0.03125
+Binomial,Quick Sort 3,650,0.03125
+Binomial,Counting Sort,650,0.03125
+Binomial,Selection Sort,700,1.53125
+Binomial,Insertion Sort,700,0.5625
+Binomial,Shell Sort,700,0.015625
+Binomial,Quick Sort,700,0.015625
+Binomial,Quick Sort 2,700,0.015625
+Binomial,Quick Sort 3,700,0.03125
+Binomial,Counting Sort,700,0.03125
+Binomial,Selection Sort,750,1.640625
+Binomial,Insertion Sort,750,1.09375
+Binomial,Shell Sort,750,0.03125
+Binomial,Quick Sort,750,0.09375
+Binomial,Quick Sort 2,750,0.046875
+Binomial,Quick Sort 3,750,0.03125
+Binomial,Counting Sort,750,0.046875
+Binomial,Selection Sort,50,0.015625
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.015625
+Binomial,Selection Sort,100,0.0
+Binomial,Insertion Sort,100,0.03125
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.015625
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.015625
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.078125
+Binomial,Insertion Sort,150,0.015625
+Binomial,Shell Sort,150,0.03125
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.015625
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.171875
+Binomial,Insertion Sort,200,0.03125
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.015625
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.0
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.1875
+Binomial,Insertion Sort,250,0.078125
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.0
+Binomial,Quick Sort 2,250,0.0
+Binomial,Quick Sort 3,250,0.03125
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.296875
+Binomial,Insertion Sort,300,0.203125
+Binomial,Shell Sort,300,0.03125
+Binomial,Quick Sort,300,0.046875
+Binomial,Quick Sort 2,300,0.0
+Binomial,Quick Sort 3,300,0.046875
+Binomial,Counting Sort,300,0.03125
+Binomial,Selection Sort,350,0.453125
+Binomial,Insertion Sort,350,0.078125
+Binomial,Shell Sort,350,0.03125
+Binomial,Quick Sort,350,0.046875
+Binomial,Quick Sort 2,350,0.015625
+Binomial,Quick Sort 3,350,0.046875
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.703125
+Binomial,Insertion Sort,400,0.25
+Binomial,Shell Sort,400,0.0625
+Binomial,Quick Sort,400,0.046875
+Binomial,Quick Sort 2,400,0.03125
+Binomial,Quick Sort 3,400,0.0625
+Binomial,Counting Sort,400,0.046875
+Binomial,Selection Sort,450,0.765625
+Binomial,Insertion Sort,450,0.3125
+Binomial,Shell Sort,450,0.046875
+Binomial,Quick Sort,450,0.015625
+Binomial,Quick Sort 2,450,0.015625
+Binomial,Quick Sort 3,450,0.03125
+Binomial,Counting Sort,450,0.015625
+Binomial,Selection Sort,500,1.046875
+Binomial,Insertion Sort,500,0.359375
+Binomial,Shell Sort,500,0.046875
+Binomial,Quick Sort,500,0.03125
+Binomial,Quick Sort 2,500,0.0625
+Binomial,Quick Sort 3,500,0.046875
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,1.125
+Binomial,Insertion Sort,550,0.625
+Binomial,Shell Sort,550,0.046875
+Binomial,Quick Sort,550,0.078125
+Binomial,Quick Sort 2,550,0.03125
+Binomial,Quick Sort 3,550,0.140625
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,1.375
+Binomial,Insertion Sort,600,0.84375
+Binomial,Shell Sort,600,0.03125
+Binomial,Quick Sort,600,0.03125
+Binomial,Quick Sort 2,600,0.03125
+Binomial,Quick Sort 3,600,0.046875
+Binomial,Counting Sort,600,0.015625
+Binomial,Selection Sort,650,1.578125
+Binomial,Insertion Sort,650,0.734375
+Binomial,Shell Sort,650,0.125
+Binomial,Quick Sort,650,0.03125
+Binomial,Quick Sort 2,650,0.0625
+Binomial,Quick Sort 3,650,0.0625
+Binomial,Counting Sort,650,0.015625
+Binomial,Selection Sort,700,1.90625
+Binomial,Insertion Sort,700,0.90625
+Binomial,Shell Sort,700,0.078125
+Binomial,Quick Sort,700,0.03125
+Binomial,Quick Sort 2,700,0.03125
+Binomial,Quick Sort 3,700,0.0625
+Binomial,Counting Sort,700,0.015625
+Binomial,Selection Sort,750,2.21875
+Binomial,Insertion Sort,750,1.09375
+Binomial,Shell Sort,750,0.046875
+Binomial,Quick Sort,750,0.078125
+Binomial,Quick Sort 2,750,0.09375
+Binomial,Quick Sort 3,750,0.078125
+Binomial,Counting Sort,750,0.03125
+Binomial,Selection Sort,50,0.015625
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.03125
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.015625
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.03125
+Binomial,Insertion Sort,100,0.0
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.015625
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.015625
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.0625
+Binomial,Insertion Sort,150,0.0625
+Binomial,Shell Sort,150,0.015625
+Binomial,Quick Sort,150,0.015625
+Binomial,Quick Sort 2,150,0.015625
+Binomial,Quick Sort 3,150,0.015625
+Binomial,Counting Sort,150,0.015625
+Binomial,Selection Sort,200,0.140625
+Binomial,Insertion Sort,200,0.046875
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.03125
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.15625
+Binomial,Insertion Sort,250,0.046875
+Binomial,Shell Sort,250,0.0
+Binomial,Quick Sort,250,0.015625
+Binomial,Quick Sort 2,250,0.0
+Binomial,Quick Sort 3,250,0.015625
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.140625
+Binomial,Insertion Sort,300,0.046875
+Binomial,Shell Sort,300,0.0
+Binomial,Quick Sort,300,0.015625
+Binomial,Quick Sort 2,300,0.0
+Binomial,Quick Sort 3,300,0.0
+Binomial,Counting Sort,300,0.0
+Binomial,Selection Sort,350,0.40625
+Binomial,Insertion Sort,350,0.21875
+Binomial,Shell Sort,350,0.03125
+Binomial,Quick Sort,350,0.046875
+Binomial,Quick Sort 2,350,0.015625
+Binomial,Quick Sort 3,350,0.03125
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.65625
+Binomial,Insertion Sort,400,0.140625
+Binomial,Shell Sort,400,0.03125
+Binomial,Quick Sort,400,0.0
+Binomial,Quick Sort 2,400,0.0
+Binomial,Quick Sort 3,400,0.015625
+Binomial,Counting Sort,400,0.0
+Binomial,Selection Sort,450,0.75
+Binomial,Insertion Sort,450,0.328125
+Binomial,Shell Sort,450,0.03125
+Binomial,Quick Sort,450,0.015625
+Binomial,Quick Sort 2,450,0.03125
+Binomial,Quick Sort 3,450,0.015625
+Binomial,Counting Sort,450,0.0
+Binomial,Selection Sort,500,0.640625
+Binomial,Insertion Sort,500,0.1875
+Binomial,Shell Sort,500,0.03125
+Binomial,Quick Sort,500,0.046875
+Binomial,Quick Sort 2,500,0.015625
+Binomial,Quick Sort 3,500,0.015625
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,0.59375
+Binomial,Insertion Sort,550,0.5625
+Binomial,Shell Sort,550,0.015625
+Binomial,Quick Sort,550,0.0625
+Binomial,Quick Sort 2,550,0.015625
+Binomial,Quick Sort 3,550,0.03125
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,1.40625
+Binomial,Insertion Sort,600,0.671875
+Binomial,Shell Sort,600,0.03125
+Binomial,Quick Sort,600,0.03125
+Binomial,Quick Sort 2,600,0.015625
+Binomial,Quick Sort 3,600,0.046875
+Binomial,Counting Sort,600,0.015625
+Binomial,Selection Sort,650,1.40625
+Binomial,Insertion Sort,650,0.859375
+Binomial,Shell Sort,650,0.046875
+Binomial,Quick Sort,650,0.046875
+Binomial,Quick Sort 2,650,0.03125
+Binomial,Quick Sort 3,650,0.078125
+Binomial,Counting Sort,650,0.03125
+Binomial,Selection Sort,700,2.203125
+Binomial,Insertion Sort,700,0.890625
+Binomial,Shell Sort,700,0.125
+Binomial,Quick Sort,700,0.09375
+Binomial,Quick Sort 2,700,0.03125
+Binomial,Quick Sort 3,700,0.078125
+Binomial,Counting Sort,700,0.03125
+Binomial,Selection Sort,750,2.546875
+Binomial,Insertion Sort,750,1.15625
+Binomial,Shell Sort,750,0.109375
+Binomial,Quick Sort,750,0.09375
+Binomial,Quick Sort 2,750,0.03125
+Binomial,Quick Sort 3,750,0.109375
+Binomial,Counting Sort,750,0.03125
+Binomial,Selection Sort,50,0.046875
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.015625
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.015625
+Binomial,Selection Sort,100,0.015625
+Binomial,Insertion Sort,100,0.0
+Binomial,Shell Sort,100,0.015625
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.015625
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.09375
+Binomial,Insertion Sort,150,0.03125
+Binomial,Shell Sort,150,0.0
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.015625
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.015625
+Binomial,Selection Sort,200,0.109375
+Binomial,Insertion Sort,200,0.03125
+Binomial,Shell Sort,200,0.015625
+Binomial,Quick Sort,200,0.015625
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.265625
+Binomial,Insertion Sort,250,0.109375
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.015625
+Binomial,Quick Sort 2,250,0.015625
+Binomial,Quick Sort 3,250,0.015625
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.25
+Binomial,Insertion Sort,300,0.265625
+Binomial,Shell Sort,300,0.0
+Binomial,Quick Sort,300,0.015625
+Binomial,Quick Sort 2,300,0.03125
+Binomial,Quick Sort 3,300,0.046875
+Binomial,Counting Sort,300,0.015625
+Binomial,Selection Sort,350,0.5625
+Binomial,Insertion Sort,350,0.15625
+Binomial,Shell Sort,350,0.03125
+Binomial,Quick Sort,350,0.015625
+Binomial,Quick Sort 2,350,0.0
+Binomial,Quick Sort 3,350,0.03125
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.515625
+Binomial,Insertion Sort,400,0.328125
+Binomial,Shell Sort,400,0.046875
+Binomial,Quick Sort,400,0.03125
+Binomial,Quick Sort 2,400,0.015625
+Binomial,Quick Sort 3,400,0.0625
+Binomial,Counting Sort,400,0.015625
+Binomial,Selection Sort,450,0.234375
+Binomial,Insertion Sort,450,0.171875
+Binomial,Shell Sort,450,0.03125
+Binomial,Quick Sort,450,0.046875
+Binomial,Quick Sort 2,450,0.015625
+Binomial,Quick Sort 3,450,0.0
+Binomial,Counting Sort,450,0.0
+Binomial,Selection Sort,500,0.296875
+Binomial,Insertion Sort,500,0.140625
+Binomial,Shell Sort,500,0.015625
+Binomial,Quick Sort,500,0.0
+Binomial,Quick Sort 2,500,0.0
+Binomial,Quick Sort 3,500,0.015625
+Binomial,Counting Sort,500,0.0
+Binomial,Selection Sort,550,0.328125
+Binomial,Insertion Sort,550,0.171875
+Binomial,Shell Sort,550,0.015625
+Binomial,Quick Sort,550,0.015625
+Binomial,Quick Sort 2,550,0.015625
+Binomial,Quick Sort 3,550,0.046875
+Binomial,Counting Sort,550,0.0
+Binomial,Selection Sort,600,1.375
+Binomial,Insertion Sort,600,0.609375
+Binomial,Shell Sort,600,0.09375
+Binomial,Quick Sort,600,0.0625
+Binomial,Quick Sort 2,600,0.046875
+Binomial,Quick Sort 3,600,0.0625
+Binomial,Counting Sort,600,0.015625
+Binomial,Selection Sort,650,1.78125
+Binomial,Insertion Sort,650,0.875
+Binomial,Shell Sort,650,0.0625
+Binomial,Quick Sort,650,0.078125
+Binomial,Quick Sort 2,650,0.09375
+Binomial,Quick Sort 3,650,0.046875
+Binomial,Counting Sort,650,0.0625
+Binomial,Selection Sort,700,2.34375
+Binomial,Insertion Sort,700,0.921875
+Binomial,Shell Sort,700,0.03125
+Binomial,Quick Sort,700,0.046875
+Binomial,Quick Sort 2,700,0.015625
+Binomial,Quick Sort 3,700,0.03125
+Binomial,Counting Sort,700,0.0
+Binomial,Selection Sort,750,2.625
+Binomial,Insertion Sort,750,1.078125
+Binomial,Shell Sort,750,0.109375
+Binomial,Quick Sort,750,0.09375
+Binomial,Quick Sort 2,750,0.046875
+Binomial,Quick Sort 3,750,0.046875
+Binomial,Counting Sort,750,0.046875
+Binomial,Selection Sort,50,0.015625
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.015625
+Binomial,Insertion Sort,100,0.03125
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.015625
+Binomial,Quick Sort 2,100,0.015625
+Binomial,Quick Sort 3,100,0.0
+Binomial,Counting Sort,100,0.015625
+Binomial,Selection Sort,150,0.0625
+Binomial,Insertion Sort,150,0.015625
+Binomial,Shell Sort,150,0.0
+Binomial,Quick Sort,150,0.03125
+Binomial,Quick Sort 2,150,0.03125
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.015625
+Binomial,Selection Sort,200,0.15625
+Binomial,Insertion Sort,200,0.0625
+Binomial,Shell Sort,200,0.015625
+Binomial,Quick Sort,200,0.0
+Binomial,Quick Sort 2,200,0.015625
+Binomial,Quick Sort 3,200,0.015625
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.140625
+Binomial,Insertion Sort,250,0.046875
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.03125
+Binomial,Quick Sort 2,250,0.015625
+Binomial,Quick Sort 3,250,0.046875
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.359375
+Binomial,Insertion Sort,300,0.203125
+Binomial,Shell Sort,300,0.046875
+Binomial,Quick Sort,300,0.03125
+Binomial,Quick Sort 2,300,0.0
+Binomial,Quick Sort 3,300,0.03125
+Binomial,Counting Sort,300,0.015625
+Binomial,Selection Sort,350,0.765625
+Binomial,Insertion Sort,350,0.1875
+Binomial,Shell Sort,350,0.03125
+Binomial,Quick Sort,350,0.0
+Binomial,Quick Sort 2,350,0.015625
+Binomial,Quick Sort 3,350,0.03125
+Binomial,Counting Sort,350,0.015625
+Binomial,Selection Sort,400,0.46875
+Binomial,Insertion Sort,400,0.1875
+Binomial,Shell Sort,400,0.0
+Binomial,Quick Sort,400,0.0
+Binomial,Quick Sort 2,400,0.015625
+Binomial,Quick Sort 3,400,0.0
+Binomial,Counting Sort,400,0.015625
+Binomial,Selection Sort,450,0.203125
+Binomial,Insertion Sort,450,0.0625
+Binomial,Shell Sort,450,0.015625
+Binomial,Quick Sort,450,0.015625
+Binomial,Quick Sort 2,450,0.0
+Binomial,Quick Sort 3,450,0.015625
+Binomial,Counting Sort,450,0.015625
+Binomial,Selection Sort,500,0.3125
+Binomial,Insertion Sort,500,0.265625
+Binomial,Shell Sort,500,0.0
+Binomial,Quick Sort,500,0.0
+Binomial,Quick Sort 2,500,0.015625
+Binomial,Quick Sort 3,500,0.015625
+Binomial,Counting Sort,500,0.015625
+Binomial,Selection Sort,550,0.359375
+Binomial,Insertion Sort,550,0.171875
+Binomial,Shell Sort,550,0.015625
+Binomial,Quick Sort,550,0.0
+Binomial,Quick Sort 2,550,0.0
+Binomial,Quick Sort 3,550,0.0
+Binomial,Counting Sort,550,0.0
+Binomial,Selection Sort,600,0.484375
+Binomial,Insertion Sort,600,0.203125
+Binomial,Shell Sort,600,0.0
+Binomial,Quick Sort,600,0.0
+Binomial,Quick Sort 2,600,0.0
+Binomial,Quick Sort 3,600,0.0
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,0.609375
+Binomial,Insertion Sort,650,0.296875
+Binomial,Shell Sort,650,0.0
+Binomial,Quick Sort,650,0.015625
+Binomial,Quick Sort 2,650,0.0
+Binomial,Quick Sort 3,650,0.015625
+Binomial,Counting Sort,650,0.015625
+Binomial,Selection Sort,700,0.734375
+Binomial,Insertion Sort,700,0.390625
+Binomial,Shell Sort,700,0.0
+Binomial,Quick Sort,700,0.03125
+Binomial,Quick Sort 2,700,0.015625
+Binomial,Quick Sort 3,700,0.03125
+Binomial,Counting Sort,700,0.0
+Binomial,Selection Sort,750,0.734375
+Binomial,Insertion Sort,750,0.359375
+Binomial,Shell Sort,750,0.015625
+Binomial,Quick Sort,750,0.015625
+Binomial,Quick Sort 2,750,0.0
+Binomial,Quick Sort 3,750,0.015625
+Binomial,Counting Sort,750,0.03125
+Binomial,Selection Sort,50,0.0
+Binomial,Insertion Sort,50,0.0
+Binomial,Shell Sort,50,0.0
+Binomial,Quick Sort,50,0.0
+Binomial,Quick Sort 2,50,0.0
+Binomial,Quick Sort 3,50,0.0
+Binomial,Counting Sort,50,0.0
+Binomial,Selection Sort,100,0.015625
+Binomial,Insertion Sort,100,0.0
+Binomial,Shell Sort,100,0.0
+Binomial,Quick Sort,100,0.0
+Binomial,Quick Sort 2,100,0.0
+Binomial,Quick Sort 3,100,0.0
+Binomial,Counting Sort,100,0.0
+Binomial,Selection Sort,150,0.015625
+Binomial,Insertion Sort,150,0.015625
+Binomial,Shell Sort,150,0.0
+Binomial,Quick Sort,150,0.0
+Binomial,Quick Sort 2,150,0.0
+Binomial,Quick Sort 3,150,0.0
+Binomial,Counting Sort,150,0.0
+Binomial,Selection Sort,200,0.0
+Binomial,Insertion Sort,200,0.0625
+Binomial,Shell Sort,200,0.0
+Binomial,Quick Sort,200,0.015625
+Binomial,Quick Sort 2,200,0.0
+Binomial,Quick Sort 3,200,0.0
+Binomial,Counting Sort,200,0.0
+Binomial,Selection Sort,250,0.0625
+Binomial,Insertion Sort,250,0.046875
+Binomial,Shell Sort,250,0.015625
+Binomial,Quick Sort,250,0.015625
+Binomial,Quick Sort 2,250,0.0
+Binomial,Quick Sort 3,250,0.0
+Binomial,Counting Sort,250,0.0
+Binomial,Selection Sort,300,0.125
+Binomial,Insertion Sort,300,0.046875
+Binomial,Shell Sort,300,0.015625
+Binomial,Quick Sort,300,0.0
+Binomial,Quick Sort 2,300,0.0
+Binomial,Quick Sort 3,300,0.03125
+Binomial,Counting Sort,300,0.0
+Binomial,Selection Sort,350,0.15625
+Binomial,Insertion Sort,350,0.109375
+Binomial,Shell Sort,350,0.0
+Binomial,Quick Sort,350,0.015625
+Binomial,Quick Sort 2,350,0.0
+Binomial,Quick Sort 3,350,0.0
+Binomial,Counting Sort,350,0.0
+Binomial,Selection Sort,400,0.3125
+Binomial,Insertion Sort,400,0.125
+Binomial,Shell Sort,400,0.015625
+Binomial,Quick Sort,400,0.015625
+Binomial,Quick Sort 2,400,0.0
+Binomial,Quick Sort 3,400,0.015625
+Binomial,Counting Sort,400,0.0
+Binomial,Selection Sort,450,0.28125
+Binomial,Insertion Sort,450,0.109375
+Binomial,Shell Sort,450,0.046875
+Binomial,Quick Sort,450,0.015625
+Binomial,Quick Sort 2,450,0.0
+Binomial,Quick Sort 3,450,0.015625
+Binomial,Counting Sort,450,0.0
+Binomial,Selection Sort,500,0.109375
+Binomial,Insertion Sort,500,0.0625
+Binomial,Shell Sort,500,0.015625
+Binomial,Quick Sort,500,0.0
+Binomial,Quick Sort 2,500,0.015625
+Binomial,Quick Sort 3,500,0.0
+Binomial,Counting Sort,500,0.0
+Binomial,Selection Sort,550,0.421875
+Binomial,Insertion Sort,550,0.203125
+Binomial,Shell Sort,550,0.09375
+Binomial,Quick Sort,550,0.015625
+Binomial,Quick Sort 2,550,0.015625
+Binomial,Quick Sort 3,550,0.015625
+Binomial,Counting Sort,550,0.015625
+Binomial,Selection Sort,600,0.609375
+Binomial,Insertion Sort,600,0.140625
+Binomial,Shell Sort,600,0.03125
+Binomial,Quick Sort,600,0.03125
+Binomial,Quick Sort 2,600,0.0
+Binomial,Quick Sort 3,600,0.0
+Binomial,Counting Sort,600,0.0
+Binomial,Selection Sort,650,0.671875
+Binomial,Insertion Sort,650,0.25
+Binomial,Shell Sort,650,0.015625
+Binomial,Quick Sort,650,0.03125
+Binomial,Quick Sort 2,650,0.015625
+Binomial,Quick Sort 3,650,0.015625
+Binomial,Counting Sort,650,0.0
+Binomial,Selection Sort,700,0.609375
+Binomial,Insertion Sort,700,0.3125
+Binomial,Shell Sort,700,0.0
+Binomial,Quick Sort,700,0.015625
+Binomial,Quick Sort 2,700,0.0
+Binomial,Quick Sort 3,700,0.015625
+Binomial,Counting Sort,700,0.015625
+Binomial,Selection Sort,750,0.65625
+Binomial,Insertion Sort,750,0.421875
+Binomial,Shell Sort,750,0.015625
+Binomial,Quick Sort,750,0.015625
+Binomial,Quick Sort 2,750,0.03125
+Binomial,Quick Sort 3,750,0.03125
+Binomial,Counting Sort,750,0.015625
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.046875
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.015625
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.015625
+Geometric,Insertion Sort,150,0.0
+Geometric,Shell Sort,150,0.015625
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.046875
+Geometric,Insertion Sort,200,0.03125
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.09375
+Geometric,Insertion Sort,250,0.40625
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.125
+Geometric,Insertion Sort,300,0.046875
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.0
+Geometric,Quick Sort 2,300,0.015625
+Geometric,Quick Sort 3,300,0.0
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.265625
+Geometric,Insertion Sort,350,0.09375
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.0
+Geometric,Quick Sort 2,350,0.015625
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.265625
+Geometric,Insertion Sort,400,0.0625
+Geometric,Shell Sort,400,0.0
+Geometric,Quick Sort,400,0.0
+Geometric,Quick Sort 2,400,0.03125
+Geometric,Quick Sort 3,400,0.015625
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.34375
+Geometric,Insertion Sort,450,0.140625
+Geometric,Shell Sort,450,0.0
+Geometric,Quick Sort,450,0.0
+Geometric,Quick Sort 2,450,0.0
+Geometric,Quick Sort 3,450,0.015625
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.5625
+Geometric,Insertion Sort,500,0.21875
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.0
+Geometric,Quick Sort 2,500,0.03125
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.578125
+Geometric,Insertion Sort,550,0.171875
+Geometric,Shell Sort,550,0.015625
+Geometric,Quick Sort,550,0.015625
+Geometric,Quick Sort 2,550,0.0
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,0.78125
+Geometric,Insertion Sort,600,0.390625
+Geometric,Shell Sort,600,0.03125
+Geometric,Quick Sort,600,0.03125
+Geometric,Quick Sort 2,600,0.0
+Geometric,Quick Sort 3,600,0.015625
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,0.6875
+Geometric,Insertion Sort,650,0.484375
+Geometric,Shell Sort,650,0.03125
+Geometric,Quick Sort,650,0.046875
+Geometric,Quick Sort 2,650,0.015625
+Geometric,Quick Sort 3,650,0.0
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.09375
+Geometric,Insertion Sort,700,0.4375
+Geometric,Shell Sort,700,0.03125
+Geometric,Quick Sort,700,0.015625
+Geometric,Quick Sort 2,700,0.03125
+Geometric,Quick Sort 3,700,0.015625
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,1.375
+Geometric,Insertion Sort,750,0.53125
+Geometric,Shell Sort,750,0.03125
+Geometric,Quick Sort,750,0.046875
+Geometric,Quick Sort 2,750,0.0
+Geometric,Quick Sort 3,750,0.0
+Geometric,Counting Sort,750,0.015625
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.0
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.078125
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.015625
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.015625
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.0625
+Geometric,Insertion Sort,200,0.0
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.15625
+Geometric,Insertion Sort,250,0.015625
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.015625
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.015625
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.140625
+Geometric,Insertion Sort,300,0.046875
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.015625
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.015625
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.265625
+Geometric,Insertion Sort,350,0.09375
+Geometric,Shell Sort,350,0.0
+Geometric,Quick Sort,350,0.015625
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.015625
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.390625
+Geometric,Insertion Sort,400,0.125
+Geometric,Shell Sort,400,0.015625
+Geometric,Quick Sort,400,0.015625
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.0
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.390625
+Geometric,Insertion Sort,450,0.109375
+Geometric,Shell Sort,450,0.03125
+Geometric,Quick Sort,450,0.0
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.015625
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.515625
+Geometric,Insertion Sort,500,0.25
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.015625
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.75
+Geometric,Insertion Sort,550,0.328125
+Geometric,Shell Sort,550,0.015625
+Geometric,Quick Sort,550,0.015625
+Geometric,Quick Sort 2,550,0.0
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,0.875
+Geometric,Insertion Sort,600,0.4375
+Geometric,Shell Sort,600,0.0
+Geometric,Quick Sort,600,0.0
+Geometric,Quick Sort 2,600,0.015625
+Geometric,Quick Sort 3,600,0.0
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,0.96875
+Geometric,Insertion Sort,650,0.265625
+Geometric,Shell Sort,650,0.015625
+Geometric,Quick Sort,650,0.03125
+Geometric,Quick Sort 2,650,0.015625
+Geometric,Quick Sort 3,650,0.03125
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.125
+Geometric,Insertion Sort,700,0.609375
+Geometric,Shell Sort,700,0.015625
+Geometric,Quick Sort,700,0.03125
+Geometric,Quick Sort 2,700,0.0
+Geometric,Quick Sort 3,700,0.03125
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,0.90625
+Geometric,Insertion Sort,750,0.703125
+Geometric,Shell Sort,750,0.015625
+Geometric,Quick Sort,750,0.015625
+Geometric,Quick Sort 2,750,0.0
+Geometric,Quick Sort 3,750,0.015625
+Geometric,Counting Sort,750,0.0
+Geometric,Selection Sort,50,0.015625
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.03125
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.015625
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.046875
+Geometric,Insertion Sort,200,0.0
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.015625
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.078125
+Geometric,Insertion Sort,250,0.046875
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.078125
+Geometric,Insertion Sort,300,0.046875
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.015625
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.0
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.203125
+Geometric,Insertion Sort,350,0.109375
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.015625
+Geometric,Quick Sort 2,350,0.015625
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.390625
+Geometric,Insertion Sort,400,0.140625
+Geometric,Shell Sort,400,0.015625
+Geometric,Quick Sort,400,0.0
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.0
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.28125
+Geometric,Insertion Sort,450,0.125
+Geometric,Shell Sort,450,0.015625
+Geometric,Quick Sort,450,0.015625
+Geometric,Quick Sort 2,450,0.0
+Geometric,Quick Sort 3,450,0.0
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.640625
+Geometric,Insertion Sort,500,0.25
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.0
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.515625
+Geometric,Insertion Sort,550,0.25
+Geometric,Shell Sort,550,0.0
+Geometric,Quick Sort,550,0.0
+Geometric,Quick Sort 2,550,0.015625
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,0.765625
+Geometric,Insertion Sort,600,0.453125
+Geometric,Shell Sort,600,0.015625
+Geometric,Quick Sort,600,0.015625
+Geometric,Quick Sort 2,600,0.0
+Geometric,Quick Sort 3,600,0.0
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,0.9375
+Geometric,Insertion Sort,650,0.34375
+Geometric,Shell Sort,650,0.046875
+Geometric,Quick Sort,650,0.03125
+Geometric,Quick Sort 2,650,0.03125
+Geometric,Quick Sort 3,650,0.015625
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.234375
+Geometric,Insertion Sort,700,0.5625
+Geometric,Shell Sort,700,0.015625
+Geometric,Quick Sort,700,0.0
+Geometric,Quick Sort 2,700,0.0
+Geometric,Quick Sort 3,700,0.03125
+Geometric,Counting Sort,700,0.015625
+Geometric,Selection Sort,750,1.65625
+Geometric,Insertion Sort,750,0.390625
+Geometric,Shell Sort,750,0.03125
+Geometric,Quick Sort,750,0.015625
+Geometric,Quick Sort 2,750,0.03125
+Geometric,Quick Sort 3,750,0.03125
+Geometric,Counting Sort,750,0.015625
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.0
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.015625
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.015625
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.046875
+Geometric,Insertion Sort,200,0.015625
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.078125
+Geometric,Insertion Sort,250,0.078125
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.015625
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.15625
+Geometric,Insertion Sort,300,0.078125
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.0
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.03125
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.1875
+Geometric,Insertion Sort,350,0.078125
+Geometric,Shell Sort,350,0.0
+Geometric,Quick Sort,350,0.015625
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.40625
+Geometric,Insertion Sort,400,0.15625
+Geometric,Shell Sort,400,0.0
+Geometric,Quick Sort,400,0.015625
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.015625
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.5625
+Geometric,Insertion Sort,450,0.140625
+Geometric,Shell Sort,450,0.015625
+Geometric,Quick Sort,450,0.0
+Geometric,Quick Sort 2,450,0.0
+Geometric,Quick Sort 3,450,0.015625
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.828125
+Geometric,Insertion Sort,500,0.234375
+Geometric,Shell Sort,500,0.015625
+Geometric,Quick Sort,500,0.0
+Geometric,Quick Sort 2,500,0.0
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.953125
+Geometric,Insertion Sort,550,0.390625
+Geometric,Shell Sort,550,0.0
+Geometric,Quick Sort,550,0.0
+Geometric,Quick Sort 2,550,0.015625
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,0.765625
+Geometric,Insertion Sort,600,0.390625
+Geometric,Shell Sort,600,0.015625
+Geometric,Quick Sort,600,0.03125
+Geometric,Quick Sort 2,600,0.03125
+Geometric,Quick Sort 3,600,0.03125
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,0.890625
+Geometric,Insertion Sort,650,0.515625
+Geometric,Shell Sort,650,0.046875
+Geometric,Quick Sort,650,0.015625
+Geometric,Quick Sort 2,650,0.03125
+Geometric,Quick Sort 3,650,0.046875
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.234375
+Geometric,Insertion Sort,700,0.546875
+Geometric,Shell Sort,700,0.015625
+Geometric,Quick Sort,700,0.03125
+Geometric,Quick Sort 2,700,0.03125
+Geometric,Quick Sort 3,700,0.015625
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,1.25
+Geometric,Insertion Sort,750,0.78125
+Geometric,Shell Sort,750,0.0625
+Geometric,Quick Sort,750,0.0625
+Geometric,Quick Sort 2,750,0.03125
+Geometric,Quick Sort 3,750,0.03125
+Geometric,Counting Sort,750,0.0
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.03125
+Geometric,Insertion Sort,150,0.0
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.140625
+Geometric,Insertion Sort,200,0.046875
+Geometric,Shell Sort,200,0.015625
+Geometric,Quick Sort,200,0.015625
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.125
+Geometric,Insertion Sort,250,0.0625
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.234375
+Geometric,Insertion Sort,300,0.125
+Geometric,Shell Sort,300,0.03125
+Geometric,Quick Sort,300,0.0
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.015625
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.375
+Geometric,Insertion Sort,350,0.0625
+Geometric,Shell Sort,350,0.0
+Geometric,Quick Sort,350,0.03125
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.328125
+Geometric,Insertion Sort,400,0.171875
+Geometric,Shell Sort,400,0.0
+Geometric,Quick Sort,400,0.015625
+Geometric,Quick Sort 2,400,0.015625
+Geometric,Quick Sort 3,400,0.03125
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.609375
+Geometric,Insertion Sort,450,0.203125
+Geometric,Shell Sort,450,0.03125
+Geometric,Quick Sort,450,0.015625
+Geometric,Quick Sort 2,450,0.0
+Geometric,Quick Sort 3,450,0.015625
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.796875
+Geometric,Insertion Sort,500,0.25
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.015625
+Geometric,Quick Sort 3,500,0.03125
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.90625
+Geometric,Insertion Sort,550,0.484375
+Geometric,Shell Sort,550,0.015625
+Geometric,Quick Sort,550,0.03125
+Geometric,Quick Sort 2,550,0.03125
+Geometric,Quick Sort 3,550,0.0
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,1.015625
+Geometric,Insertion Sort,600,0.296875
+Geometric,Shell Sort,600,0.0
+Geometric,Quick Sort,600,0.0625
+Geometric,Quick Sort 2,600,0.015625
+Geometric,Quick Sort 3,600,0.0
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,1.515625
+Geometric,Insertion Sort,650,0.625
+Geometric,Shell Sort,650,0.03125
+Geometric,Quick Sort,650,0.046875
+Geometric,Quick Sort 2,650,0.0
+Geometric,Quick Sort 3,650,0.0
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.390625
+Geometric,Insertion Sort,700,0.640625
+Geometric,Shell Sort,700,0.03125
+Geometric,Quick Sort,700,0.03125
+Geometric,Quick Sort 2,700,0.015625
+Geometric,Quick Sort 3,700,0.03125
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,1.6875
+Geometric,Insertion Sort,750,0.671875
+Geometric,Shell Sort,750,0.015625
+Geometric,Quick Sort,750,0.0625
+Geometric,Quick Sort 2,750,0.03125
+Geometric,Quick Sort 3,750,0.03125
+Geometric,Counting Sort,750,0.015625
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.015625
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.015625
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.03125
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.09375
+Geometric,Insertion Sort,200,0.046875
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.015625
+Geometric,Selection Sort,250,0.125
+Geometric,Insertion Sort,250,0.078125
+Geometric,Shell Sort,250,0.015625
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.015625
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.25
+Geometric,Insertion Sort,300,0.09375
+Geometric,Shell Sort,300,0.015625
+Geometric,Quick Sort,300,0.0
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.0
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.40625
+Geometric,Insertion Sort,350,0.125
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.0
+Geometric,Quick Sort 2,350,0.015625
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.375
+Geometric,Insertion Sort,400,0.1875
+Geometric,Shell Sort,400,0.015625
+Geometric,Quick Sort,400,0.015625
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.015625
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.53125
+Geometric,Insertion Sort,450,0.203125
+Geometric,Shell Sort,450,0.046875
+Geometric,Quick Sort,450,0.015625
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.015625
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.703125
+Geometric,Insertion Sort,500,0.296875
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.015625
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.8125
+Geometric,Insertion Sort,550,0.34375
+Geometric,Shell Sort,550,0.015625
+Geometric,Quick Sort,550,0.015625
+Geometric,Quick Sort 2,550,0.0
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,0.875
+Geometric,Insertion Sort,600,0.359375
+Geometric,Shell Sort,600,0.046875
+Geometric,Quick Sort,600,0.0
+Geometric,Quick Sort 2,600,0.015625
+Geometric,Quick Sort 3,600,0.015625
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,1.171875
+Geometric,Insertion Sort,650,0.46875
+Geometric,Shell Sort,650,0.046875
+Geometric,Quick Sort,650,0.0
+Geometric,Quick Sort 2,650,0.015625
+Geometric,Quick Sort 3,650,0.015625
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.390625
+Geometric,Insertion Sort,700,0.78125
+Geometric,Shell Sort,700,0.015625
+Geometric,Quick Sort,700,0.046875
+Geometric,Quick Sort 2,700,0.03125
+Geometric,Quick Sort 3,700,0.03125
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,1.890625
+Geometric,Insertion Sort,750,0.703125
+Geometric,Shell Sort,750,0.046875
+Geometric,Quick Sort,750,0.015625
+Geometric,Quick Sort 2,750,0.03125
+Geometric,Quick Sort 3,750,0.03125
+Geometric,Counting Sort,750,0.0
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.03125
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.015625
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.109375
+Geometric,Insertion Sort,200,0.015625
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.015625
+Geometric,Selection Sort,250,0.15625
+Geometric,Insertion Sort,250,0.0625
+Geometric,Shell Sort,250,0.0
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.015625
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.328125
+Geometric,Insertion Sort,300,0.125
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.03125
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.0
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.3125
+Geometric,Insertion Sort,350,0.09375
+Geometric,Shell Sort,350,0.03125
+Geometric,Quick Sort,350,0.0
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.015625
+Geometric,Counting Sort,350,0.015625
+Geometric,Selection Sort,400,0.46875
+Geometric,Insertion Sort,400,0.171875
+Geometric,Shell Sort,400,0.0
+Geometric,Quick Sort,400,0.0
+Geometric,Quick Sort 2,400,0.015625
+Geometric,Quick Sort 3,400,0.03125
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.65625
+Geometric,Insertion Sort,450,0.1875
+Geometric,Shell Sort,450,0.0
+Geometric,Quick Sort,450,0.015625
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.03125
+Geometric,Counting Sort,450,0.015625
+Geometric,Selection Sort,500,0.625
+Geometric,Insertion Sort,500,0.265625
+Geometric,Shell Sort,500,0.0
+Geometric,Quick Sort,500,0.0
+Geometric,Quick Sort 2,500,0.03125
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,0.8125
+Geometric,Insertion Sort,550,0.328125
+Geometric,Shell Sort,550,0.015625
+Geometric,Quick Sort,550,0.03125
+Geometric,Quick Sort 2,550,0.046875
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,1.140625
+Geometric,Insertion Sort,600,0.40625
+Geometric,Shell Sort,600,0.03125
+Geometric,Quick Sort,600,0.015625
+Geometric,Quick Sort 2,600,0.015625
+Geometric,Quick Sort 3,600,0.03125
+Geometric,Counting Sort,600,0.015625
+Geometric,Selection Sort,650,1.15625
+Geometric,Insertion Sort,650,0.59375
+Geometric,Shell Sort,650,0.046875
+Geometric,Quick Sort,650,0.046875
+Geometric,Quick Sort 2,650,0.03125
+Geometric,Quick Sort 3,650,0.03125
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.40625
+Geometric,Insertion Sort,700,0.515625
+Geometric,Shell Sort,700,0.046875
+Geometric,Quick Sort,700,0.0
+Geometric,Quick Sort 2,700,0.078125
+Geometric,Quick Sort 3,700,0.015625
+Geometric,Counting Sort,700,0.015625
+Geometric,Selection Sort,750,1.96875
+Geometric,Insertion Sort,750,0.703125
+Geometric,Shell Sort,750,0.046875
+Geometric,Quick Sort,750,0.0
+Geometric,Quick Sort 2,750,0.046875
+Geometric,Quick Sort 3,750,0.046875
+Geometric,Counting Sort,750,0.0
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.0
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.03125
+Geometric,Insertion Sort,150,0.015625
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.078125
+Geometric,Insertion Sort,200,0.03125
+Geometric,Shell Sort,200,0.015625
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.015625
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.15625
+Geometric,Insertion Sort,250,0.046875
+Geometric,Shell Sort,250,0.015625
+Geometric,Quick Sort,250,0.0
+Geometric,Quick Sort 2,250,0.03125
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.234375
+Geometric,Insertion Sort,300,0.109375
+Geometric,Shell Sort,300,0.015625
+Geometric,Quick Sort,300,0.03125
+Geometric,Quick Sort 2,300,0.015625
+Geometric,Quick Sort 3,300,0.0
+Geometric,Counting Sort,300,0.015625
+Geometric,Selection Sort,350,0.40625
+Geometric,Insertion Sort,350,0.15625
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.0
+Geometric,Quick Sort 2,350,0.015625
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.015625
+Geometric,Selection Sort,400,0.546875
+Geometric,Insertion Sort,400,0.265625
+Geometric,Shell Sort,400,0.03125
+Geometric,Quick Sort,400,0.03125
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.015625
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.46875
+Geometric,Insertion Sort,450,0.265625
+Geometric,Shell Sort,450,0.015625
+Geometric,Quick Sort,450,0.015625
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.0
+Geometric,Counting Sort,450,0.015625
+Geometric,Selection Sort,500,0.765625
+Geometric,Insertion Sort,500,0.25
+Geometric,Shell Sort,500,0.046875
+Geometric,Quick Sort,500,0.03125
+Geometric,Quick Sort 2,500,0.0
+Geometric,Quick Sort 3,500,0.015625
+Geometric,Counting Sort,500,0.015625
+Geometric,Selection Sort,550,1.078125
+Geometric,Insertion Sort,550,0.390625
+Geometric,Shell Sort,550,0.046875
+Geometric,Quick Sort,550,0.015625
+Geometric,Quick Sort 2,550,0.015625
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,1.296875
+Geometric,Insertion Sort,600,0.4375
+Geometric,Shell Sort,600,0.046875
+Geometric,Quick Sort,600,0.015625
+Geometric,Quick Sort 2,600,0.0
+Geometric,Quick Sort 3,600,0.046875
+Geometric,Counting Sort,600,0.015625
+Geometric,Selection Sort,650,1.34375
+Geometric,Insertion Sort,650,0.484375
+Geometric,Shell Sort,650,0.015625
+Geometric,Quick Sort,650,0.0625
+Geometric,Quick Sort 2,650,0.046875
+Geometric,Quick Sort 3,650,0.0
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.390625
+Geometric,Insertion Sort,700,0.515625
+Geometric,Shell Sort,700,0.046875
+Geometric,Quick Sort,700,0.015625
+Geometric,Quick Sort 2,700,0.046875
+Geometric,Quick Sort 3,700,0.0
+Geometric,Counting Sort,700,0.015625
+Geometric,Selection Sort,750,1.5625
+Geometric,Insertion Sort,750,0.65625
+Geometric,Shell Sort,750,0.03125
+Geometric,Quick Sort,750,0.046875
+Geometric,Quick Sort 2,750,0.046875
+Geometric,Quick Sort 3,750,0.03125
+Geometric,Counting Sort,750,0.015625
+Geometric,Selection Sort,50,0.015625
+Geometric,Insertion Sort,50,0.0
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.046875
+Geometric,Insertion Sort,150,0.0
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.015625
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.046875
+Geometric,Insertion Sort,200,0.03125
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.0
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.140625
+Geometric,Insertion Sort,250,0.03125
+Geometric,Shell Sort,250,0.015625
+Geometric,Quick Sort,250,0.015625
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.0
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.140625
+Geometric,Insertion Sort,300,0.0625
+Geometric,Shell Sort,300,0.015625
+Geometric,Quick Sort,300,0.0
+Geometric,Quick Sort 2,300,0.0
+Geometric,Quick Sort 3,300,0.015625
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.234375
+Geometric,Insertion Sort,350,0.09375
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.015625
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.578125
+Geometric,Insertion Sort,400,0.171875
+Geometric,Shell Sort,400,0.015625
+Geometric,Quick Sort,400,0.03125
+Geometric,Quick Sort 2,400,0.0
+Geometric,Quick Sort 3,400,0.015625
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.328125
+Geometric,Insertion Sort,450,0.171875
+Geometric,Shell Sort,450,0.015625
+Geometric,Quick Sort,450,0.0
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.0
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.53125
+Geometric,Insertion Sort,500,0.203125
+Geometric,Shell Sort,500,0.015625
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.0
+Geometric,Quick Sort 3,500,0.015625
+Geometric,Counting Sort,500,0.0
+Geometric,Selection Sort,550,1.046875
+Geometric,Insertion Sort,550,0.453125
+Geometric,Shell Sort,550,0.0
+Geometric,Quick Sort,550,0.03125
+Geometric,Quick Sort 2,550,0.015625
+Geometric,Quick Sort 3,550,0.03125
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,1.1875
+Geometric,Insertion Sort,600,0.484375
+Geometric,Shell Sort,600,0.03125
+Geometric,Quick Sort,600,0.0
+Geometric,Quick Sort 2,600,0.03125
+Geometric,Quick Sort 3,600,0.015625
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,1.453125
+Geometric,Insertion Sort,650,0.46875
+Geometric,Shell Sort,650,0.03125
+Geometric,Quick Sort,650,0.0625
+Geometric,Quick Sort 2,650,0.0
+Geometric,Quick Sort 3,650,0.0
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.515625
+Geometric,Insertion Sort,700,0.625
+Geometric,Shell Sort,700,0.0625
+Geometric,Quick Sort,700,0.0625
+Geometric,Quick Sort 2,700,0.046875
+Geometric,Quick Sort 3,700,0.046875
+Geometric,Counting Sort,700,0.015625
+Geometric,Selection Sort,750,1.6875
+Geometric,Insertion Sort,750,0.578125
+Geometric,Shell Sort,750,0.0
+Geometric,Quick Sort,750,0.0
+Geometric,Quick Sort 2,750,0.015625
+Geometric,Quick Sort 3,750,0.015625
+Geometric,Counting Sort,750,0.0
+Geometric,Selection Sort,50,0.0
+Geometric,Insertion Sort,50,0.015625
+Geometric,Shell Sort,50,0.0
+Geometric,Quick Sort,50,0.0
+Geometric,Quick Sort 2,50,0.0
+Geometric,Quick Sort 3,50,0.0
+Geometric,Counting Sort,50,0.0
+Geometric,Selection Sort,100,0.015625
+Geometric,Insertion Sort,100,0.0
+Geometric,Shell Sort,100,0.0
+Geometric,Quick Sort,100,0.0
+Geometric,Quick Sort 2,100,0.0
+Geometric,Quick Sort 3,100,0.0
+Geometric,Counting Sort,100,0.0
+Geometric,Selection Sort,150,0.046875
+Geometric,Insertion Sort,150,0.03125
+Geometric,Shell Sort,150,0.0
+Geometric,Quick Sort,150,0.0
+Geometric,Quick Sort 2,150,0.0
+Geometric,Quick Sort 3,150,0.0
+Geometric,Counting Sort,150,0.0
+Geometric,Selection Sort,200,0.0625
+Geometric,Insertion Sort,200,0.03125
+Geometric,Shell Sort,200,0.0
+Geometric,Quick Sort,200,0.0
+Geometric,Quick Sort 2,200,0.0
+Geometric,Quick Sort 3,200,0.03125
+Geometric,Counting Sort,200,0.0
+Geometric,Selection Sort,250,0.125
+Geometric,Insertion Sort,250,0.09375
+Geometric,Shell Sort,250,0.015625
+Geometric,Quick Sort,250,0.015625
+Geometric,Quick Sort 2,250,0.0
+Geometric,Quick Sort 3,250,0.015625
+Geometric,Counting Sort,250,0.0
+Geometric,Selection Sort,300,0.09375
+Geometric,Insertion Sort,300,0.015625
+Geometric,Shell Sort,300,0.0
+Geometric,Quick Sort,300,0.015625
+Geometric,Quick Sort 2,300,0.015625
+Geometric,Quick Sort 3,300,0.03125
+Geometric,Counting Sort,300,0.0
+Geometric,Selection Sort,350,0.3125
+Geometric,Insertion Sort,350,0.09375
+Geometric,Shell Sort,350,0.015625
+Geometric,Quick Sort,350,0.015625
+Geometric,Quick Sort 2,350,0.0
+Geometric,Quick Sort 3,350,0.0
+Geometric,Counting Sort,350,0.0
+Geometric,Selection Sort,400,0.40625
+Geometric,Insertion Sort,400,0.125
+Geometric,Shell Sort,400,0.0
+Geometric,Quick Sort,400,0.03125
+Geometric,Quick Sort 2,400,0.015625
+Geometric,Quick Sort 3,400,0.0
+Geometric,Counting Sort,400,0.0
+Geometric,Selection Sort,450,0.5625
+Geometric,Insertion Sort,450,0.140625
+Geometric,Shell Sort,450,0.015625
+Geometric,Quick Sort,450,0.0
+Geometric,Quick Sort 2,450,0.015625
+Geometric,Quick Sort 3,450,0.0
+Geometric,Counting Sort,450,0.0
+Geometric,Selection Sort,500,0.625
+Geometric,Insertion Sort,500,0.3125
+Geometric,Shell Sort,500,0.03125
+Geometric,Quick Sort,500,0.015625
+Geometric,Quick Sort 2,500,0.03125
+Geometric,Quick Sort 3,500,0.0
+Geometric,Counting Sort,500,0.03125
+Geometric,Selection Sort,550,0.515625
+Geometric,Insertion Sort,550,0.34375
+Geometric,Shell Sort,550,0.0
+Geometric,Quick Sort,550,0.03125
+Geometric,Quick Sort 2,550,0.046875
+Geometric,Quick Sort 3,550,0.015625
+Geometric,Counting Sort,550,0.0
+Geometric,Selection Sort,600,1.0625
+Geometric,Insertion Sort,600,0.40625
+Geometric,Shell Sort,600,0.03125
+Geometric,Quick Sort,600,0.015625
+Geometric,Quick Sort 2,600,0.015625
+Geometric,Quick Sort 3,600,0.015625
+Geometric,Counting Sort,600,0.0
+Geometric,Selection Sort,650,1.0625
+Geometric,Insertion Sort,650,0.5625
+Geometric,Shell Sort,650,0.046875
+Geometric,Quick Sort,650,0.046875
+Geometric,Quick Sort 2,650,0.046875
+Geometric,Quick Sort 3,650,0.03125
+Geometric,Counting Sort,650,0.0
+Geometric,Selection Sort,700,1.515625
+Geometric,Insertion Sort,700,0.6875
+Geometric,Shell Sort,700,0.046875
+Geometric,Quick Sort,700,0.046875
+Geometric,Quick Sort 2,700,0.0625
+Geometric,Quick Sort 3,700,0.0
+Geometric,Counting Sort,700,0.0
+Geometric,Selection Sort,750,1.8125
+Geometric,Insertion Sort,750,0.625
+Geometric,Shell Sort,750,0.0
+Geometric,Quick Sort,750,0.0
+Geometric,Quick Sort 2,750,0.0
+Geometric,Quick Sort 3,750,0.015625
+Geometric,Counting Sort,750,0.0
