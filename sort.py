@@ -2,7 +2,11 @@ import time
 import random
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import ast
+
+#Gera dataframes para alocar as informações das distribuições e tempos
+samples = pd.DataFrame(columns=['Index','Distribution','Sample'])
+temp_exerc = pd.DataFrame(columns=['Distribution','Ordenation','Array Length','Time'])
 
 
 def selectionSort(V):
@@ -73,7 +77,6 @@ def quickSort2(V, i, f):
         quickSort2(V, i, pivot-1)
         quickSort2(V, pivot+1, f)
 
-# original de Hoare. produz melhores particoes (mais estaveis).
 # tipicamente faz 3 x menos swaps que Lomuto...
 def partition2(V, i, f):
     p = V[i]  # pivot no leftmost
@@ -139,48 +142,42 @@ def countingSort(A, N, k):   # assume-se que A[1..N]
 
     return B
 
-
-# programa principal
-print()
-print()
-
-samples = pd.DataFrame(columns=['Index','Distribution','Sample'])
-temp_exerc = pd.DataFrame(columns=['Distribution','Ordenation','Array Length','Time'])
-
-
-def arrays(samples):
-    # gera as amostras de acordo com
-     
-    for i in range(1, 11):
+def arrays(df): # gera as amostras de acordo com a distribuição
+         
+    for i in range(1, 21):
 
         V = []
         length = 750
         for j in range(1,length+1):
             V += [random.randrange(1,101)]
         new_row = pd.DataFrame({'Index':i, 'Distribution':'Random', 'Sample': [V]})
-        samples = pd.concat([samples, new_row], ignore_index=True)
+        df = pd.concat([df, new_row], ignore_index=True)
 
         # Distribuição de Poisson
+        V = []
         for j in range(1,length+1):
             V += [np.random.poisson(100)]
         new_row = pd.DataFrame({'Index':i, 'Distribution':'Poisson', 'Sample': [V]})
-        samples = pd.concat([samples, new_row], ignore_index=True)
+        df = pd.concat([df, new_row], ignore_index=True)
 
         # Distribuição Binomial
+        V = []
         for j in range(1,length+1):
             V += [np.random.binomial(200,0.5)]
         new_row = pd.DataFrame({'Index':i, 'Distribution':'Binomial', 'Sample': [V]})
-        samples = pd.concat([samples, new_row], ignore_index=True)
+        df = pd.concat([df, new_row], ignore_index=True)
 
         # Distribuição Geometrica
+        V = []
         for j in range(1,length+1):
             V += [np.random.geometric(0.01)]
         new_row = pd.DataFrame({'Index':i, 'Distribution':'Geometric', 'Sample': [V]})
-        samples = pd.concat([samples, new_row], ignore_index=True)
+        df = pd.concat([df, new_row], ignore_index=True)
 
-    samples.to_csv('./TG/samples.csv', sep=',',index = False)
+    df.to_csv('./samples.csv', sep=',',index = False)
+    return df
 
-def ordenationTimes(V, temp_exerc, length, distr):
+def ordenationTimes(V, temp_exerc, length, distr): #gera o tempo de execucação de cada algoritmo
     # benchmark
     tot = 0.0
     for i in range(1,100):
@@ -259,25 +256,27 @@ def ordenationTimes(V, temp_exerc, length, distr):
     temp_exerc = pd.concat([temp_exerc, new_row], ignore_index=True)
     print("Counting Sort  time="+str(tot))
 
-    #temp_exerc.to_csv('./TG/temp_exec.csv', sep=',', index=False)
+    temp_exerc.to_csv('./temp_exec.csv', sep=',', index=False)
     return temp_exerc
 
-df = pd.read_csv('./TG/samples.csv', sep=',')
+def createTemp(df): # adiciona ao CSV os tempos de excecução
+    df1 = pd.DataFrame()
 
-df1 = pd.DataFrame()
+    for element in df['Distribution'].drop_duplicates().to_list(): #Dá o nome da distribuição utilizado
 
-for element in df['Distribution'].drop_duplicates().to_list():
-    list_element = df[df['Distribution']==element]['Sample'].to_list()
+        list_element = df[df['Distribution']==element]['Sample'].to_list() #gera lista 
 
-    for array in list_element:
-        array = eval(array)
+        for array in list_element:
+            for i in range(49,750,50):
+                to_order = array[0:i]
+                df2 = ordenationTimes(to_order, temp_exerc, i+1,element)
+                df1 = pd.concat([df1, df2], ignore_index=True)
 
-        for i in range(49,750,50):
-            to_order = array[0:i]
-            df2 = ordenationTimes(to_order, temp_exerc, i+1,element)
-            df1 = pd.concat([df1, df2], ignore_index=True)
-            print(df1)
+    df1.to_csv('./temp_exec.csv', sep=',', index=False)
+    return df1
 
+#Para gerar as amostras de acordo com as distribuições
+distributions = arrays(samples)
 
-print(df1)
-df1.to_csv('./TG/temp_exec.csv', sep=',', index=False)
+#Para calcular o tempo de cada ordenação 
+createTemp(distributions)
