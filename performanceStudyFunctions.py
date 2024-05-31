@@ -1,5 +1,6 @@
 import numpy as np
-import time 
+import time
+from timeit import default_timer as timer
 import random
 from sortingAlgorithms import *
 
@@ -23,7 +24,8 @@ def createArray(distribution,length):
   
 def calcExecutionTime(algorithm, array,output, gaps = []):
     tot = 0.0
-    st = time.time_ns() / (10 ** 9) * 1000
+    #st = time.time_ns() / (10 ** 6)
+    st = time.process_time()
     if(algorithm == "selectionSort"):  
         selectionSort(array)
     if(algorithm == "insertionSort"):  
@@ -34,7 +36,8 @@ def calcExecutionTime(algorithm, array,output, gaps = []):
         quickSort(array,0,len(array)-1)
     if(algorithm == "countingSort"):  
         countingSort(array,len(array)-1, max(array))
-    en = time.time_ns() / (10 ** 9) * 1000
+    #en = time.time_ns() / (10**6)
+    en = time.process_time()
     tot += (en-st)
     if output == True:
         print(algorithm + " execution time = "+str(tot)+" ms")
